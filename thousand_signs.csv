@@ -1,0 +1,1000 @@
+B,P-004958,1,0000 ,   ,Curb Line
+B,P-004958,2,0009 ,   ,Property Line
+B,P-004958,3,0030 ,   ,NIGHT REGULATION (MOON & STARS SYMBOLS) NO PARKING (SANITATION BROOM SYMBOL) MIDNIGHT TO 3AM TUES & FRI <--> (SUPERSEDED BY SP-841C)                                    
+B,P-004958,4,0030 ,   ,1 HOUR PARKING 9AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-004958,5,0208 ,   ,NIGHT REGULATION (MOON & STARS SYMBOLS) NO PARKING (SANITATION BROOM SYMBOL) MIDNIGHT TO 3AM TUES & FRI <--> (SUPERSEDED BY SP-841C)                                    
+B,P-004958,6,0208 ,   ,1 HOUR PARKING 9AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-004958,7,0218 ,   ,Property Line
+B,P-004958,8,0232 ,   ,Curb Line
+B,P-009318,1,0000 ,   ,Curb Line
+B,P-009318,2,0014 ,   ,Building Line
+B,P-009318,3,0066 ,   ,NO STANDING<---->HANDICAP BUS STOP(SYMBOL) W/4 ROUTES +(15X12,4 ROUTE RIDER-IF NECESSARY);REVISED 2/14/94 & SUPERSEDES SP-298B.                                         
+B,P-009318,4,0129 ,   ,NO STANDING<---->HANDICAP BUS STOP(SYMBOL) W/4 ROUTES +(15X12,4 ROUTE RIDER-IF NECESSARY);REVISED 2/14/94 & SUPERSEDES SP-298B.                                         
+B,P-009318,5,0149 ,   ,Property Line
+B,P-009318,6,0177 ,   ,Curb Line
+B,P-010938,1,0000 ,   ,Building Line
+B,P-010938,2,0055 ,   ,NO PARKING ANYTIME(SUPERSEDED BY R7-40R) DON'T USE R7-40                                                                                                                
+B,P-010938,3,0089 ,   ,Property Line
+B,P-049703,1,0000 ,   ,Building Line
+B,P-049703,2,0000 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8AM-9AM EXCEPT SUNDAY <----> (SUPERSEDED BY SP-156C DATED 1-22-98)                                                                 
+B,P-049703,3,0000 ,   ,1 HOUR PARKING 9AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-049703,4,0090 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8AM-9AM EXCEPT SUNDAY <----> (SUPERSEDED BY SP-156C DATED 1-22-98)                                                                 
+B,P-049703,5,0090 ,   ,1 HOUR PARKING 9AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-049703,6,0158 ,   ,Property Line
+B,P-068316,1,0000 ,   ,Curb Line
+B,P-068316,2,0015 ,   ,Building Line
+B,P-068316,3,0087 ,   ,NO STANDING<---->HANDICAP BUS STOP(SYMBOL) W/4 ROUTES +(15X12,4 ROUTE RIDER-IF NECESSARY);REVISED 2/14/94 & SUPERSEDES SP-298B.                                         
+B,P-068316,4,0149 ,W  ,NO STANDING(SINGLE ARROW)HANDICAP BUS(SYMBOL)W/4 ROUTES +(15X12 4 ROUTE RIDER-IF NECESSARY) REVISED 3/25/92 & SUPERSEDES SP-298BA                                       
+B,P-068316,5,0179 ,   ,NO PARKING ANYTIME <----> (SUPERSEDES R7-40 DON'T USE --R7-40)                                                                                                          
+B,P-068316,6,0229 ,   ,Building Line
+B,P-068316,7,0229 ,W  ,NO PARKING ANYTIME (SINGLE ARROW)(SUPERSEDES R7-40 DON'TUSE R7-40)                                                                                                      
+B,P-068316,8,0244 ,   ,Curb Line
+B,P-070463,1,0000 ,   ,Curb Line
+B,P-070463,2,0013 ,   ,Building Line
+B,P-070463,3,0131 ,W  ,NO PARKING (SANITATION BROOM SYMBOL) 8-8:30AM EXCEPT SUN W/ SIGNLE ARROW (SUPERSEDES SP-182CA)                                                                          
+B,P-070463,4,0131 ,W  ,1 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY W/SINGLE ARROW                                                                                                                  
+B,P-070463,5,0213 ,W  ,NO STANDING(SINGLE ARROW)HANDICAP BUS(SYMBOL)W/4 ROUTES +(15X12 4 ROUTE RIDER-IF NECESSARY) REVISED 3/25/92 & SUPERSEDES SP-298BA                                       
+B,P-070463,6,0213 ,   ,Property Line
+B,P-070463,7,0226 ,   ,Curb Line
+B,P-072060,1,0000 ,   ,Curb Line
+B,P-072060,2,0020 ,   ,Building Line
+B,P-072060,3,0130 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 11:30AM TO 1PM THURS <---->                                                                                                        
+B,P-072060,4,0130 ,   ,METERS ARE NOT IN EFFECT ABOVE TIMES (RIDER)                                                                                                                            
+B,P-072060,5,0130 ,N  ,2 HOUR PARKING 9AM-7PM EXCEPT SUNDAY W/ SINGLE ARROW                                                                                                                    
+B,P-072060,6,0144 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 11:30AM TO 1PM THURS <---->                                                                                                        
+B,P-072060,7,0278 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 11:30AM TO 1PM THURS <---->                                                                                                        
+B,P-072060,8,0426 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 11:30AM TO 1PM THURS <---->                                                                                                        
+B,P-072060,9,0480 ,   ,Building Line
+B,P-072060,10,0495 ,   ,Curb Line
+B,P-075539,1,0000 ,   ,Curb Line
+B,P-075539,2,0019 ,   ,Building Line
+B,P-075539,3,0231 ,   ,Building Line
+B,P-075539,4,0243 ,   ,Curb Line
+B,P-076559,1,0000 ,   ,Curb Line
+B,P-076559,2,0248 ,   ,Property Line
+B,P-076661,1,0000 ,   ,Curb Line
+B,P-076661,2,0011 ,   ,Property Line
+B,P-076661,3,0094 ,N  ,NO STANDING(SINGLE ARROW)HANDICAP BUS(SYMBOL)W/4 ROUTES +(15X12 4 ROUTE RIDER-IF NECESSARY) REVISED 3/25/92 & SUPERSEDES SP-298BA                                       
+B,P-076661,4,0812 ,S  ,NO PARKING 8AM-6PM MON THRU FRI (ARROW) (SUPERSEDED BY R7-45RA)                                                                                                         
+B,P-076661,5,0946 ,N  ,NO PARKING 8AM-6PM MON THRU FRI (ARROW) (SUPERSEDED BY R7-45RA)                                                                                                         
+B,P-076661,6,0946 ,S  ,NO PARKING (SANITATION BROOM SYMBOL) 9-9:30AM SAT W/SINGLE ARROW SUPERSEDED BY SP-523CA DATED 4/10/96                                                                   
+B,P-076661,7,0946 ,S  ,2 HOUR PARKING 9AM-7PM EXCEPT SUNDAY W/ SINGLE ARROW                                                                                                                    
+B,P-076661,8,0946 ,   ,METERS ARE NOT IN EFFECT ABOVE TIMES (RIDER)                                                                                                                            
+B,P-076661,9,1004 ,S  ,NO STANDING(SINGLE ARROW)HANDICAP BUS(SYMBOL)W/4 ROUTES +(15X12 4 ROUTE RIDER-IF NECESSARY) REVISED 3/25/92 & SUPERSEDES SP-298BA                                       
+B,P-076661,10,1068 ,N  ,NO STANDING(SINGLE ARROW)HANDICAP BUS(SYMBOL)W/4 ROUTES +(15X12 4 ROUTE RIDER-IF NECESSARY) REVISED 3/25/92 & SUPERSEDES SP-298BA                                       
+B,P-076661,11,1148 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 9-9:30AM SAT <---->SUPERSEDED BY SP-523C DATED 4/10/96                                                                             
+B,P-076661,12,1148 ,   ,2 HOUR PARKING 9AM-7PM EXCEPT SUNDAY <----->                                                                                                                            
+B,P-076661,13,1148 ,   ,METERS ARE NOT IN EFFECT ABOVE TIMES (RIDER)                                                                                                                            
+B,P-076661,14,1297 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 9-9:30AM SAT <---->SUPERSEDED BY SP-523C DATED 4/10/96                                                                             
+B,P-076661,15,1297 ,   ,2 HOUR PARKING 9AM-7PM EXCEPT SUNDAY <----->                                                                                                                            
+B,P-076661,16,1297 ,   ,METERS ARE NOT IN EFFECT ABOVE TIMES (RIDER)                                                                                                                            
+B,P-076661,17,1378 ,   ,Building Line
+B,P-076661,18,1396 ,   ,Curb Line
+B,P-089057,1,0000 ,   ,Curb Line
+B,P-089057,2,0065 ,   ,Property Line
+B,P-089057,3,0080 ,   ,Curb Line
+B,P-089988,1,0000 ,   ,Curb Line
+B,P-089988,2,0004 ,   ,Property Line
+B,P-089988,3,0007 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-10AM TUES & FRI <-----> (SUPERSEDED BY SP-846C)                                                                               
+B,P-089988,4,0007 ,   ,OTHER TIMES (RIDER FOR PARKING RESTRICTED SIGNS - RED/WHITE)                                                                                                            
+B,P-089988,5,0007 ,   ,1 HOUR PARKING 9AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-089988,6,0122 ,W  ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-10AM TUES & FRI W/SINGLE ARROW (SUPERSEDED BY SP-846CA)                                                                       
+B,P-089988,7,0122 ,   ,OTHER TIMES (RIDER FOR PARKING RESTRICTED SIGNS - RED/WHITE)                                                                                                            
+B,P-089988,8,0122 ,W  ,1 HOUR PARKING 9AM-7PM EXCEPT SUNDAY (ARROW)                                                                                                                            
+B,P-089988,9,0122 ,E  ,NO STANDING EXCEPT TRUCKS LOADING & UNLOADING 6AM-4PM EXCEPT SUNDAY W/SINGLE ARROW                                                                                      
+B,P-089988,10,0172 ,W  ,NO STANDING EXCEPT TRUCKS LOADING & UNLOADING 6AM-4PM EXCEPT SUNDAY W/SINGLE ARROW                                                                                      
+B,P-089988,11,0172 ,E  ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-10AM TUES & FRI W/SINGLE ARROW (SUPERSEDED BY SP-846CA)                                                                       
+B,P-089988,12,0172 ,   ,OTHER TIMES (RIDER FOR PARKING RESTRICTED SIGNS - RED/WHITE)                                                                                                            
+B,P-089988,13,0172 ,E  ,1 HOUR PARKING 9AM-7PM EXCEPT SUNDAY (ARROW)                                                                                                                            
+B,P-089988,14,0248 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-10AM TUES & FRI <-----> (SUPERSEDED BY SP-846C)                                                                               
+B,P-089988,15,0248 ,   ,OTHER TIMES (RIDER FOR PARKING RESTRICTED SIGNS - RED/WHITE)                                                                                                            
+B,P-089988,16,0248 ,   ,1 HOUR PARKING 9AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-089988,17,0267 ,   ,Property Line
+B,P-089988,18,0278 ,   ,Curb Line
+B,P-095070,1,0000 ,   ,Curb Line
+B,P-095070,2,0059 ,   ,NO STANDING ANYTIME (REPLACED BY SP-10B)                                                                                                                                
+B,P-095070,3,0108 ,   ,Curb Line
+B,P-112619,1,0000 ,   ,Curb Line
+B,P-112619,2,0018 ,   ,Building Line
+B,P-112619,3,0048 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-10AM MON & THURS <----> (SUPERSEDED BY SP-851C)                                                                               
+B,P-112619,4,0177 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-10AM MON & THURS <----> (SUPERSEDED BY SP-851C)                                                                               
+B,P-112619,5,0319 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-10AM MON & THURS <----> (SUPERSEDED BY SP-851C)                                                                               
+B,P-112619,6,0467 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-10AM MON & THURS <----> (SUPERSEDED BY SP-851C)                                                                               
+B,P-112619,7,0637 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-10AM MON & THURS <----> (SUPERSEDED BY SP-851C)                                                                               
+B,P-112619,8,0682 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-10AM MON & THURS <----> (SUPERSEDED BY SP-851C)                                                                               
+B,P-112619,9,0682 ,   ,METERS ARE NOT IN EFFECT ABOVE TIMES (RIDER)                                                                                                                            
+B,P-112619,10,0682 ,S  ,1 HOUR PARKING 9AM-7PM EXCEPT SUNDAY (ARROW)                                                                                                                            
+B,P-112619,11,0755 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-10AM MON & THURS <----> (SUPERSEDED BY SP-851C)                                                                               
+B,P-112619,12,0755 ,   ,METERS ARE NOT IN EFFECT ABOVE TIMES (RIDER)                                                                                                                            
+B,P-112619,13,0755 ,   ,1 HOUR PARKING 9AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-112619,14,0775 ,   ,Property Line
+B,P-112619,15,0795 ,   ,Curb Line
+B,P-115847,1,0000 ,   ,Curb Line
+B,P-115847,2,0013 ,   ,Building Line
+B,P-115847,3,0038 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 9-10:30AM MON & THURS <---->                                                                                                       
+B,P-115847,4,0095 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 9-10:30AM MON & THURS <---->                                                                                                       
+B,P-115847,5,0194 ,   ,Building Line
+B,P-115847,6,0208 ,   ,Curb Line
+B,P-129870,1,0000 ,   ,Curb Line
+B,P-129870,2,0017 ,   ,Building Line
+B,P-129870,3,0038 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN <----->                                                                                                        
+B,P-129870,4,0038 ,   ,2 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-129870,5,0123 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN <----->                                                                                                        
+B,P-129870,6,0123 ,   ,2 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-129870,7,0286 ,E  ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN W/ SINGLE ARROW                                                                                                
+B,P-129870,8,0286 ,E  ,2 HOUR PARKING 8AM-7PM EXCEPT SUNDAY (ARROW)                                                                                                                            
+B,P-129870,9,0286 ,   ,Building Line
+B,P-129870,10,0297 ,   ,Curb Line
+B,P-132428,1,0000 ,   ,Curb Line
+B,P-132428,2,0025 ,   ,Property Line
+B,P-132428,3,0045 ,   ,NO STANDING 10AM-6PM MON THRU FRI <------>                                                                                                                              
+B,P-132428,4,0045 ,   ,EXCEPT (RIDER)                                                                                                                                                          
+B,P-132428,5,0045 ,   ,AMBULETTE                                                                                                                                                               
+B,P-132428,6,0080 ,S  ,NO STANDING 10AM-6PM MON THRU FRI (SINGLE ARROW)                                                                                                                        
+B,P-132428,7,0080 ,   ,EXCEPT (RIDER)                                                                                                                                                          
+B,P-132428,8,0080 ,   ,AMBULETTE                                                                                                                                                               
+B,P-132428,9,0116 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 11:30AM TO 1PM TUES & FRI <---->                                                                                                   
+B,P-132428,10,0116 ,S  ,OTHER TIMES 1 HOUR PARKING 9AM-7PM EXCEPT SUNDAY (ARROW)                                                                                                                
+B,P-132428,11,0167 ,S  ,NO PARKING (SANITATION BROOM SYMBOL) 11:30AM TO 1PM TUES & FRI W/SINGLE ARROW                                                                                           
+B,P-132428,12,0167 ,N  ,NO PARKING PASSENGER LOADING ZONE W/ SINGLE ARROW                                                                                                                       
+B,P-132428,13,0209 ,S  ,NO PARKING PASSENGER LOADING ZONE W/ SINGLE ARROW                                                                                                                       
+B,P-132428,14,0209 ,N  ,NO PARKING (SANITATION BROOM SYMBOL) 11:30AM TO 1PM TUES & FRI W/SINGLE ARROW                                                                                           
+B,P-132428,15,0258 ,S  ,NO PARKING (SANITATION BROOM SYMBOL) 11:30AM TO 1PM TUES & FRI W/SINGLE ARROW                                                                                           
+B,P-132428,16,0258 ,N  ,NO PARKING ANYTIME (SINGLE ARROW)(SUPERSEDES R7-40 DON'TUSE R7-40)                                                                                                      
+B,P-132428,17,0385 ,S  ,NO PARKING ANYTIME (SINGLE ARROW)(SUPERSEDES R7-40 DON'TUSE R7-40)                                                                                                      
+B,P-132428,18,0385 ,N  ,NO PARKING (SANITATION BROOM SYMBOL) 11:30AM TO 1PM TUES & FRI W/SINGLE ARROW                                                                                           
+B,P-132428,19,0505 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 11:30AM TO 1PM TUES & FRI <---->                                                                                                   
+B,P-132428,20,0638 ,S  ,NO PARKING (SANITATION BROOM SYMBOL) 11:30AM TO 1PM TUES & FRI W/SINGLE ARROW                                                                                           
+B,P-132428,21,0640 ,   ,Property Line
+B,P-132428,22,0654 ,   ,Curb Line
+B,P-135202,1,0000 ,   ,Curb Line
+B,P-135202,2,0010 ,   ,Property Line
+B,P-135202,3,0119 ,   ,BUS LAYOVER AREA NO STANDING ANYTIME <-----> (NO ENGINE IDLING SYMBOL) NO ENGINE IDLING MAX FINE $XXXX (XXXX = AMT TO BE DETERMINED)                                    
+B,P-135202,4,0185 ,   ,BUS LAYOVER AREA NO STANDING ANYTIME <-----> (NO ENGINE IDLING SYMBOL) NO ENGINE IDLING MAX FINE $XXXX (XXXX = AMT TO BE DETERMINED)                                    
+B,P-135202,5,0202 ,   ,Curb Line
+B,P-149191,1,0000 ,   ,Curb Line
+B,P-149191,2,0010 ,   ,Property Line
+B,P-149191,3,0043 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM TUES & FRI<----->                                                                                                         
+B,P-149191,4,0043 ,   ,1 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-149191,5,0118 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM TUES & FRI<----->                                                                                                         
+B,P-149191,6,0118 ,   ,1 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-149191,7,0198 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM TUES & FRI<----->                                                                                                         
+B,P-149191,8,0198 ,   ,1 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-149191,9,0220 ,   ,Property Line
+B,P-149191,10,0252 ,   ,Curb Line
+B,P-149195,1,0000 ,   ,Curb Line
+B,P-149195,2,0019 ,   ,Building Line
+B,P-149195,3,0037 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8-8:30AM MON & THURS <----->                                                                                                       
+B,P-149195,4,0226 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8-8:30AM MON & THURS <----->                                                                                                       
+B,P-149195,5,0226 ,S  ,1 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY W/SINGLE ARROW                                                                                                                  
+B,P-149195,6,0292 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8-8:30AM MON & THURS <----->                                                                                                       
+B,P-149195,7,0292 ,N  ,1 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY W/SINGLE ARROW                                                                                                                  
+B,P-149195,8,0293 ,   ,Building Line
+B,P-149195,9,0314 ,   ,Curb Line
+B,P-155616,1,0000 ,   ,Curb Line
+B,P-155616,2,0015 ,   ,Property Line
+B,P-155616,3,0030 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN <----->                                                                                                        
+B,P-155616,4,0030 ,   ,1 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-155616,5,0195 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN <----->                                                                                                        
+B,P-155616,6,0195 ,   ,1 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-155616,7,0216 ,   ,Property Line
+B,P-155616,8,0231 ,   ,Curb Line
+B,P-158196,1,0000 ,   ,Curb Line
+B,P-158196,2,0010 ,   ,Property Line
+B,P-158196,3,0037 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 11:30AM TO 1PM TUES & FRI <---->                                                                                                   
+B,P-158196,4,0147 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 11:30AM TO 1PM TUES & FRI <---->                                                                                                   
+B,P-158196,5,0275 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 11:30AM TO 1PM TUES & FRI <---->                                                                                                   
+B,P-158196,6,0414 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 11:30AM TO 1PM TUES & FRI <---->                                                                                                   
+B,P-158196,7,0538 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 11:30AM TO 1PM TUES & FRI <---->                                                                                                   
+B,P-158196,8,0675 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 11:30AM TO 1PM TUES & FRI <---->                                                                                                   
+B,P-158196,9,0791 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 11:30AM TO 1PM TUES & FRI <---->                                                                                                   
+B,P-158196,10,0893 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 11:30AM TO 1PM TUES & FRI <---->                                                                                                   
+B,P-158196,11,1010 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 11:30AM TO 1PM TUES & FRI <---->                                                                                                   
+B,P-158196,12,1022 ,   ,Property Line
+B,P-158196,13,1033 ,   ,Curb Line
+B,P-159036,1,0000 ,   ,Curb Line
+B,P-159036,2,0019 ,   ,Building Line
+B,P-159036,3,0095 ,S  ,NO STANDING(SINGLE ARROW)HANDICAP BUS(SYMBOL)W/4 ROUTES +(15X12 4 ROUTE RIDER-IF NECESSARY) REVISED 3/25/92 & SUPERSEDES SP-298BA                                       
+B,P-159036,4,0247 ,   ,Property Line
+B,P-159036,5,0255 ,   ,Curb Line
+B,P-162120,1,0000 ,   ,Curb Line
+B,P-162120,2,0296 ,   ,Curb Line
+B,P-162121,1,0000 ,   ,Curb Line
+B,P-162121,2,0281 ,   ,Curb Line
+B,P-162377,1,0000 ,   ,Curb Line
+B,P-162377,2,0012 ,   ,Property Line
+B,P-162377,3,0041 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 9:30-11AM TUES & FRI <-----> (SUPERSEDED BY SP-63C)                                                                                
+B,P-162377,4,0099 ,   ,NO PARKING (SANITATION BROOM SYMBOL) MIDNIGHT TO 3AM THURS <-----> (SUPERSEDED BY SP-606C DATED 4-25-98)                                                                
+B,P-162377,5,0142 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 9:30-11AM TUES & FRI <-----> (SUPERSEDED BY SP-63C)                                                                                
+B,P-162377,6,0307 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 9:30-11AM TUES & FRI <-----> (SUPERSEDED BY SP-63C)                                                                                
+B,P-162377,7,0420 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 9:30-11AM TUES & FRI <-----> (SUPERSEDED BY SP-63C)                                                                                
+B,P-162377,8,0475 ,   ,Property Line
+B,P-162377,9,0489 ,   ,Curb Line
+B,P-177988,1,0000 ,   ,Curb Line
+B,P-177988,2,0014 ,   ,Property Line
+B,P-177988,3,0069 ,   ,NO PARKING (SANITATION BROOM SYMBOL)7:30-8AM MON&THURS <-----> (SUPERSEDED BY SP-848C)                                                                                  
+B,P-177988,4,0175 ,N  ,NO PARKING (SANITATION BROOM SYMBOL)7:30-8AM MON &THURS W/SINGLE ARROW (SUPERSEDED BY SP-848CA)                                                                         
+B,P-177988,5,0175 ,S  ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN W/ SINGLE ARROW                                                                                                
+B,P-177988,6,0175 ,S  ,1 HOUR PARKING 8AM-7PM EXCEPT SUNDAY (ARROW)                                                                                                                            
+B,P-177988,7,0326 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN <----->                                                                                                        
+B,P-177988,8,0326 ,   ,1 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-177988,9,0461 ,N  ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN W/ SINGLE ARROW                                                                                                
+B,P-177988,10,0461 ,N  ,1 HOUR PARKING 8AM-7PM EXCEPT SUNDAY (ARROW)                                                                                                                            
+B,P-177988,11,0498 ,N  ,NO PARKING ANYTIME (SINGLE ARROW)(SUPERSEDES R7-40 DON'TUSE R7-40)                                                                                                      
+B,P-177988,12,0542 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN <----->                                                                                                        
+B,P-177988,13,0542 ,   ,1 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-177988,14,0560 ,N  ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN W/ SINGLE ARROW                                                                                                
+B,P-177988,15,0560 ,N  ,1 HOUR PARKING 8AM-7PM EXCEPT SUNDAY (ARROW)                                                                                                                            
+B,P-177988,16,0560 ,S  ,NO STANDING 7AM-7PM EXCEPT SUNDAY EXCEPT AUTHORIZED VEHICLES W/SINGLE ARROW                                                                                             
+B,P-177988,17,0560 ,   ,AMBULETTE                                                                                                                                                               
+B,P-177988,18,0652 ,N  ,NO STANDING 7AM-7PM EXCEPT SUNDAY EXCEPT AUTHORIZED VEHICLES W/SINGLE ARROW                                                                                             
+B,P-177988,19,0652 ,   ,AMBULETTE                                                                                                                                                               
+B,P-177988,20,0652 ,S  ,NO PARKING ANYTIME (SINGLE ARROW)(SUPERSEDES R7-40 DON'TUSE R7-40)                                                                                                      
+B,P-177988,21,0710 ,   ,NO PARKING ANYTIME <----> (SUPERSEDES R7-40 DON'T USE --R7-40)                                                                                                          
+B,P-177988,22,0729 ,   ,Property Line
+B,P-177988,23,0748 ,   ,Curb Line
+B,P-178720,1,0000 ,   ,Curb Line
+B,P-178720,2,0010 ,   ,Property Line
+B,P-178720,3,0092 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 11:30AM TO 1PM TUES & FRI <---->                                                                                                   
+B,P-178720,4,0152 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 11:30AM TO 1PM TUES & FRI <---->                                                                                                   
+B,P-178720,5,0283 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 11:30AM TO 1PM TUES & FRI <---->                                                                                                   
+B,P-178720,6,0334 ,S  ,NO PARKING (SANITATION BROOM SYMBOL) 11:30AM TO 1PM TUES & FRI W/SINGLE ARROW                                                                                           
+B,P-178720,7,0422 ,S  ,BUS STOP SIGN (BUS & HANDICAP SYMBOLS) NO STANDING W/ SINGLE ARROW                                                                                                      
+B,P-178720,8,0422 ,   ,M 18 LTD (12"X 6") 8 STREET 4 AVENUE (16"X 6") (ROUTE DESTINATION PANEL 032"X 06")(USE AS EXAMPLE FOR DIFFERENT LOCATION)                                               
+B,P-178720,9,0422 ,   ,14 STREET & UNION SQ (BOTTOM LOCATION PANEL)(USE AS EXAMPLE FOR DIFFERENT LOCATION)                                                                                     
+B,P-178720,10,0552 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN <----->                                                                                                        
+B,P-178720,11,0552 ,   ,1 HOUR PARKING 9AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-178720,12,0678 ,S  ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN W/ SINGLE ARROW                                                                                                
+B,P-178720,13,0678 ,S  ,1 HOUR PARKING 9AM-7PM EXCEPT SUNDAY (ARROW)                                                                                                                            
+B,P-178720,14,0691 ,   ,Property Line
+B,P-178720,15,0710 ,   ,Curb Line
+B,P-179552,1,0000 ,   ,Curb Line
+B,P-179552,2,0015 ,   ,Building Line
+B,P-179552,3,0019 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN <----->                                                                                                        
+B,P-179552,4,0019 ,   ,NO PARKING 8AM-6PM EXCEPT SUNDAY <----->                                                                                                                                
+B,P-179552,5,0098 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN <----->                                                                                                        
+B,P-179552,6,0098 ,W  ,NO PARKING 8AM-6PM EXCEPT SUNDAY (SINGLE HEAD ARROW)                                                                                                                    
+B,P-179552,7,0098 ,E  ,2 HOUR PARKING 8AM-7PM EXCEPT SUNDAY (ARROW)                                                                                                                            
+B,P-179552,8,0098 ,E  ,PAY AT MUNI-METER W/ SINGLE ARROW NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (DO NOT USE AS PER J.S-K 10/23/09)  
+B,P-179552,9,0199 ,   ,P MUNI-METER PAY & DISPLAY RECEIPT IN VEHICLE                                                                                                                           
+B,P-179552,10,0199 ,   ,P MUNI-METER PAY & DISPLAY RECEIPT IN VEHICLE                                                                                                                           
+B,P-179552,11,0199 ,   ,NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (SUPERSEDES SP-186D, SP-193D & SP-211D) (DO NOT USE A/P J.S-K 10/23/09
+B,P-179552,12,0203 ,E  ,NO STANDING ANYTIME (SINGLE ARROW) (REPLACES R7-20RA)                                                                                                                   
+B,P-179552,13,0203 ,W  ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN W/ SINGLE ARROW                                                                                                
+B,P-179552,14,0203 ,W  ,2 HOUR PARKING 8AM-7PM EXCEPT SUNDAY (ARROW)                                                                                                                            
+B,P-179552,15,0241 ,   ,Curb Line
+B,P-179553,1,0000 ,   ,Curb Line
+B,P-179553,2,0000 ,N  ,NO STANDING ANYTIME (SINGLE ARROW) (REPLACES R7-20RA)                                                                                                                   
+B,P-179553,3,0019 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN <----->                                                                                                        
+B,P-179553,4,0019 ,   ,2 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-179553,5,0019 ,   ,BACK IN 60 DEGREE PARKING ONLY <--->                                                                                                                                    
+B,P-179553,6,0019 ,   ,PAY AT MUNI-METER <-----> NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (DO NOT USE AS PER COMM J.S-K 10/23/2009)   
+B,P-179553,7,0041 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN <----->                                                                                                        
+B,P-179553,8,0041 ,   ,2 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-179553,9,0041 ,   ,BACK IN 60 DEGREE PARKING ONLY <--->                                                                                                                                    
+B,P-179553,10,0041 ,   ,PAY AT MUNI-METER <-----> NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (DO NOT USE AS PER COMM J.S-K 10/23/2009)   
+B,P-179553,11,0077 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN <----->                                                                                                        
+B,P-179553,12,0077 ,   ,2 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-179553,13,0077 ,   ,BACK IN 60 DEGREE PARKING ONLY <--->                                                                                                                                    
+B,P-179553,14,0077 ,S  ,PAY AT MUNI-METER W/ SINGLE ARROW NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (DO NOT USE AS PER J.S-K 10/23/09)  
+B,P-179553,15,0156 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN <----->                                                                                                        
+B,P-179553,16,0156 ,   ,2 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-179553,17,0156 ,   ,BACK IN 60 DEGREE PARKING ONLY <--->                                                                                                                                    
+B,P-179553,18,0156 ,   ,P MUNI-METER PAY & DISPLAY RECEIPT IN VEHICLE                                                                                                                           
+B,P-179553,19,0156 ,   ,P MUNI-METER PAY & DISPLAY RECEIPT IN VEHICLE                                                                                                                           
+B,P-179553,20,0156 ,   ,NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (SUPERSEDES SP-186D, SP-193D & SP-211D) (DO NOT USE A/P J.S-K 10/23/09
+B,P-179553,21,0191 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN <----->                                                                                                        
+B,P-179553,22,0191 ,   ,2 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-179553,23,0191 ,   ,BACK IN 60 DEGREE PARKING ONLY <--->                                                                                                                                    
+B,P-179553,24,0191 ,N  ,PAY AT MUNI-METER W/ SINGLE ARROW NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (DO NOT USE AS PER J.S-K 10/23/09)  
+B,P-179553,25,0245 ,N  ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN W/ SINGLE ARROW                                                                                                
+B,P-179553,26,0245 ,N  ,2 HOUR PARKING 8AM-7PM EXCEPT SUNDAY (ARROW)                                                                                                                            
+B,P-179553,27,0245 ,N  ,PAY AT MUNI-METER W/ SINGLE ARROW NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (DO NOT USE AS PER J.S-K 10/23/09)  
+B,P-179553,28,0268 ,   ,Building Line
+B,P-179553,29,0271 ,N  ,NO STANDING ANYTIME (SINGLE ARROW) (REPLACES R7-20RA)                                                                                                                   
+B,P-179553,30,0286 ,   ,Curb Line
+B,P-179554,1,0000 ,   ,Curb Line
+B,P-179554,2,0019 ,   ,Building Line
+B,P-179554,3,0019 ,S  ,NO STANDING ANYTIME (SINGLE ARROW) (REPLACES R7-20RA)                                                                                                                   
+B,P-179554,4,0044 ,N  ,NO STANDING ANYTIME (SINGLE ARROW) (REPLACES R7-20RA)                                                                                                                   
+B,P-179554,5,0044 ,S  ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN W/ SINGLE ARROW                                                                                                
+B,P-179554,6,0044 ,S  ,2 HOUR PARKING 8AM-7PM EXCEPT SUNDAY (ARROW)                                                                                                                            
+B,P-179554,7,0044 ,S  ,BACK IN 60 DEGREE PARKING ONLY W/SINGLE ARROW                                                                                                                           
+B,P-179554,8,0044 ,S  ,PAY AT MUNI-METER W/ SINGLE ARROW NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (DO NOT USE AS PER J.S-K 10/23/09)  
+B,P-179554,9,0113 ,S  ,NO STANDING ANYTIME (SINGLE ARROW) (REPLACES R7-20RA)                                                                                                                   
+B,P-179554,10,0113 ,N  ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN W/ SINGLE ARROW                                                                                                
+B,P-179554,11,0113 ,N  ,2 HOUR PARKING 8AM-7PM EXCEPT SUNDAY (ARROW)                                                                                                                            
+B,P-179554,12,0113 ,N  ,BACK IN 60 DEGREE PARKING ONLY W/SINGLE ARROW                                                                                                                           
+B,P-179554,13,0113 ,S  ,PAY AT MUNI-METER W/ SINGLE ARROW NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (DO NOT USE AS PER J.S-K 10/23/09)  
+B,P-179554,14,0136 ,N  ,NO STANDING ANYTIME (SINGLE ARROW) (REPLACES R7-20RA)                                                                                                                   
+B,P-179554,15,0136 ,S  ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN W/ SINGLE ARROW                                                                                                
+B,P-179554,16,0136 ,S  ,2 HOUR PARKING 8AM-7PM EXCEPT SUNDAY (ARROW)                                                                                                                            
+B,P-179554,17,0136 ,S  ,PARALLEL PARKING ONLY W/ SINGLE ARROW (SUPERSEDES R7-100RA DATED 7-11-86)                                                                                               
+B,P-179554,18,0136 ,   ,P MUNI-METER PAY & DISPLAY RECEIPT IN VEHICLE                                                                                                                           
+B,P-179554,19,0136 ,   ,P MUNI-METER PAY & DISPLAY RECEIPT IN VEHICLE                                                                                                                           
+B,P-179554,20,0136 ,   ,NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (SUPERSEDES SP-186D, SP-193D & SP-211D) (DO NOT USE A/P J.S-K 10/23/09
+B,P-179554,21,0209 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN <----->                                                                                                        
+B,P-179554,22,0209 ,   ,2 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-179554,23,0209 ,   ,PAY AT MUNI-METER <-----> NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (DO NOT USE AS PER COMM J.S-K 10/23/2009)   
+B,P-179554,24,0238 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN <----->                                                                                                        
+B,P-179554,25,0238 ,   ,2 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-179554,26,0238 ,   ,P MUNI-METER PAY & DISPLAY RECEIPT IN VEHICLE                                                                                                                           
+B,P-179554,27,0238 ,   ,P MUNI-METER PAY & DISPLAY RECEIPT IN VEHICLE                                                                                                                           
+B,P-179554,28,0238 ,   ,NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (SUPERSEDES SP-186D, SP-193D & SP-211D) (DO NOT USE A/P J.S-K 10/23/09
+B,P-179554,29,0326 ,S  ,NO STANDING ANYTIME (SINGLE ARROW) (REPLACES R7-20RA)                                                                                                                   
+B,P-179554,30,0326 ,N  ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN W/ SINGLE ARROW                                                                                                
+B,P-179554,31,0326 ,N  ,2 HOUR PARKING 8AM-7PM EXCEPT SUNDAY (ARROW)                                                                                                                            
+B,P-179554,32,0326 ,N  ,PAY AT MUNI-METER W/ SINGLE ARROW NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (DO NOT USE AS PER J.S-K 10/23/09)  
+B,P-179554,33,0363 ,N  ,NO STANDING ANYTIME (SINGLE ARROW) (REPLACES R7-20RA)                                                                                                                   
+B,P-179554,34,0363 ,   ,Building Line
+B,P-179554,35,0380 ,   ,Curb Line
+B,P-179555,1,0000 ,   ,Curb Line
+B,P-179555,2,0008 ,   ,Property Line
+B,P-179555,3,0071 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-9AM EXCEPT SUN <----> (SUPERSEDES SP-183C DATED 7/10/97)                                                                      
+B,P-179555,4,0071 ,   ,1 HOUR PARKING 9AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-179555,5,0071 ,W  ,PAY AT MUNI-METER W/ SINGLE ARROW NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (DO NOT USE AS PER J.S-K 10/23/09)  
+B,P-179555,6,0182 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-9AM EXCEPT SUN <----> (SUPERSEDES SP-183C DATED 7/10/97)                                                                      
+B,P-179555,7,0182 ,   ,1 HOUR PARKING 9AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-179555,8,0182 ,E  ,PAY AT MUNI-METER W/ SINGLE ARROW NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (DO NOT USE AS PER J.S-K 10/23/09)  
+B,P-179555,9,0215 ,   ,Building Line
+B,P-179555,10,0228 ,   ,Curb Line
+B,P-179556,1,0000 ,   ,Curb Line
+B,P-179556,2,0013 ,   ,Building Line
+B,P-179556,3,0025 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-9AM EXCEPT SUN <----> (SUPERSEDES SP-183C DATED 7/10/97)                                                                      
+B,P-179556,4,0025 ,   ,1 HOUR PARKING 9AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-179556,5,0025 ,W  ,PAY AT MUNI-METER W/ SINGLE ARROW NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (DO NOT USE AS PER J.S-K 10/23/09)  
+B,P-179556,6,0103 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-9AM EXCEPT SUN <----> (SUPERSEDES SP-183C DATED 7/10/97)                                                                      
+B,P-179556,7,0103 ,   ,1 HOUR PARKING 9AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-179556,8,0103 ,   ,NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (SUPERSEDES SP-186D, SP-193D & SP-211D) (DO NOT USE A/P J.S-K 10/23/09
+B,P-179556,9,0204 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-9AM EXCEPT SUN <----> (SUPERSEDES SP-183C DATED 7/10/97)                                                                      
+B,P-179556,10,0204 ,   ,1 HOUR PARKING 9AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-179556,11,0204 ,E  ,PAY AT MUNI-METER W/ SINGLE ARROW NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (DO NOT USE AS PER J.S-K 10/23/09)  
+B,P-179556,12,0216 ,   ,Building Line
+B,P-179556,13,0230 ,   ,Curb Line
+B,P-179557,1,0000 ,   ,Curb Line
+B,P-179557,2,0013 ,   ,Building Line
+B,P-179557,3,0078 ,W  ,BUS STOP SIGN (BUS & HANDICAP SYMBOLS) NO STANDING W/ SINGLE ARROW                                                                                                      
+B,P-179557,4,0078 ,   ,M 18 LTD (12"X 6") 8 STREET 4 AVENUE (16"X 6") (ROUTE DESTINATION PANEL 032"X 06")(USE AS EXAMPLE FOR DIFFERENT LOCATION)                                               
+B,P-179557,5,0078 ,   ,14 STREET & UNION SQ (BOTTOM LOCATION PANEL)(USE AS EXAMPLE FOR DIFFERENT LOCATION)                                                                                     
+B,P-179557,6,0095 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8-8:30AM EXCEPT SUN <----> (SUPERSEDES SP-182C)                                                                                    
+B,P-179557,7,0095 ,   ,1 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY <--->                                                                                                                           
+B,P-179557,8,0095 ,E  ,PAY AT MUNI-METER W/ SINGLE ARROW NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (DO NOT USE AS PER J.S-K 10/23/09)  
+B,P-179557,9,0166 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8-8:30AM EXCEPT SUN <----> (SUPERSEDES SP-182C)                                                                                    
+B,P-179557,10,0166 ,   ,1 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY <--->                                                                                                                           
+B,P-179557,11,0166 ,W  ,PAY AT MUNI-METER W/ SINGLE ARROW NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (DO NOT USE AS PER J.S-K 10/23/09)  
+B,P-179557,12,0216 ,   ,Building Line
+B,P-179557,13,0230 ,   ,Curb Line
+B,P-179558,1,0000 ,   ,Curb Line
+B,P-179558,2,0015 ,   ,Building Line
+B,P-179558,3,0072 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8-8:30AM EXCEPT SUN <----> (SUPERSEDES SP-182C)                                                                                    
+B,P-179558,4,0072 ,   ,1 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY <--->                                                                                                                           
+B,P-179558,5,0072 ,E  ,PAY AT MUNI-METER W/ SINGLE ARROW NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (DO NOT USE AS PER J.S-K 10/23/09)  
+B,P-179558,6,0168 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8-8:30AM EXCEPT SUN <----> (SUPERSEDES SP-182C)                                                                                    
+B,P-179558,7,0168 ,   ,1 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY <--->                                                                                                                           
+B,P-179558,8,0168 ,W  ,PAY AT MUNI-METER W/ SINGLE ARROW NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (DO NOT USE AS PER J.S-K 10/23/09)  
+B,P-179558,9,0216 ,   ,Building Line
+B,P-179558,10,0228 ,   ,Curb Line
+B,P-179933,1,0000 ,   ,Curb Line
+B,P-179933,2,0009 ,   ,Building Line
+B,P-179933,3,0110 ,S  ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN W/ SINGLE ARROW                                                                                                
+B,P-179933,4,0110 ,S  ,1 HOUR PARKING 8AM-7PM EXCEPT SUNDAY (ARROW)                                                                                                                            
+B,P-179933,5,0110 ,S  ,PAY AT MUNI-METER W/ SINGLE ARROW NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (DO NOT USE AS PER J.S-K 10/23/09)  
+B,P-179933,6,0180 ,   ,NO STANDING<---->HANDICAP BUS STOP(SYMBOL) W/4 ROUTES +(15X12,4 ROUTE RIDER-IF NECESSARY);REVISED 2/14/94 & SUPERSEDES SP-298B.                                         
+B,P-179933,7,0218 ,S  ,NO STANDING(SINGLE ARROW)HANDICAP BUS(SYMBOL)W/4 ROUTES +(15X12 4 ROUTE RIDER-IF NECESSARY) REVISED 3/25/92 & SUPERSEDES SP-298BA                                       
+B,P-179933,8,0219 ,   ,Building Line
+B,P-179933,9,0230 ,   ,Curb Line
+B,P-179937,1,0000 ,   ,Curb Line
+B,P-179937,2,0013 ,   ,Building Line
+B,P-179937,3,0035 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN <----->                                                                                                        
+B,P-179937,4,0035 ,   ,2 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-179937,5,0035 ,N  ,PAY AT MUNI-METER W/ SINGLE ARROW NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (DO NOT USE AS PER J.S-K 10/23/09)  
+B,P-179937,6,0211 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN <----->                                                                                                        
+B,P-179937,7,0211 ,   ,2 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-179937,8,0211 ,S  ,PAY AT MUNI-METER W/ SINGLE ARROW NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (DO NOT USE AS PER J.S-K 10/23/09)  
+B,P-179937,9,0216 ,   ,Building Line
+B,P-179937,10,0230 ,   ,Curb Line
+B,P-180011,1,0000 ,   ,Curb Line
+B,P-180011,2,0019 ,   ,Building Line
+B,P-180011,3,0044 ,N  ,NO STANDING ANYTIME (SINGLE ARROW) (REPLACES R7-20RA)                                                                                                                   
+B,P-180011,4,0044 ,S  ,NO PARKING (SANITATION BROOM SYMBOL) 8-8:30AM EXCEPT SUN W/ SIGNLE ARROW (SUPERSEDES SP-182CA)                                                                          
+B,P-180011,5,0044 ,S  ,2 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY W/SINGLE ARROW                                                                                                                  
+B,P-180011,6,0044 ,S  ,PAY AT MUNI-METER W/ SINGLE ARROW NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (DO NOT USE AS PER J.S-K 10/23/09)  
+B,P-180011,7,0132 ,N  ,NO PARKING (SANITATION BROOM SYMBOL) 8-8:30AM EXCEPT SUN W/ SIGNLE ARROW (SUPERSEDES SP-182CA)                                                                          
+B,P-180011,8,0132 ,N  ,2 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY W/SINGLE ARROW                                                                                                                  
+B,P-180011,9,0132 ,   ,NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (SUPERSEDES SP-186D, SP-193D & SP-211D) (DO NOT USE A/P J.S-K 10/23/09
+B,P-180011,10,0180 ,   ,NO STANDING EXCEPT TRUCKS LOADING & UNLOADING 7AM-1PM MON THRU FRI <--->                                                                                                
+B,P-180011,11,0180 ,   ,METERS ARE NOT IN EFFECT ABOVE TIMES (RIDER)                                                                                                                            
+B,P-180011,12,0180 ,   ,2 HOUR PARKING 1PM-7PM MON THRU FRI 8:30 AM-7PM SATURDAY <----->                                                                                                        
+B,P-180011,13,0180 ,N  ,PAY AT MUNI-METER W/ SINGLE ARROW NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (DO NOT USE AS PER J.S-K 10/23/09)  
+B,P-180011,14,0201 ,   ,Building Line
+B,P-180011,15,0212 ,   ,Curb Line
+B,P-180418,1,0000 ,   ,Curb Line
+B,P-180418,2,0014 ,   ,Building Line
+B,P-180418,3,0055 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-9AM EXCEPT SUN <---->                                                                                                         
+B,P-180418,4,0133 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-9AM EXCEPT SUN <---->                                                                                                         
+B,P-180418,5,0133 ,W  ,2 HOUR PARKING 9AM-7PM EXCEPT SUNDAY W/ SINGLE ARROW                                                                                                                    
+B,P-180418,6,0133 ,W  ,PAY AT MUNI-METER W/ SINGLE ARROW NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (DO NOT USE AS PER J.S-K 10/23/09)  
+B,P-180418,7,0193 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-9AM EXCEPT SUN <---->                                                                                                         
+B,P-180418,8,0193 ,   ,2 HOUR PARKING 9AM-7PM EXCEPT SUNDAY <----->                                                                                                                            
+B,P-180418,9,0193 ,   ,NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (SUPERSEDES SP-186D, SP-193D & SP-211D) (DO NOT USE A/P J.S-K 10/23/09
+B,P-180418,10,0298 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-9AM EXCEPT SUN <---->                                                                                                         
+B,P-180418,11,0298 ,   ,2 HOUR PARKING 9AM-7PM EXCEPT SUNDAY <----->                                                                                                                            
+B,P-180418,12,0298 ,   ,PAY AT MUNI-METER <-----> NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (DO NOT USE AS PER COMM J.S-K 10/23/2009)   
+B,P-180418,13,0396 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-9AM EXCEPT SUN <---->                                                                                                         
+B,P-180418,14,0396 ,   ,2 HOUR PARKING 9AM-7PM EXCEPT SUNDAY <----->                                                                                                                            
+B,P-180418,15,0396 ,   ,NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (SUPERSEDES SP-186D, SP-193D & SP-211D) (DO NOT USE A/P J.S-K 10/23/09
+B,P-180418,16,0426 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-9AM EXCEPT SUN <---->                                                                                                         
+B,P-180418,17,0426 ,   ,2 HOUR PARKING 9AM-7PM EXCEPT SUNDAY <----->                                                                                                                            
+B,P-180418,18,0426 ,E  ,PAY AT MUNI-METER W/ SINGLE ARROW NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (DO NOT USE AS PER J.S-K 10/23/09)  
+B,P-180418,19,0451 ,   ,Building Line
+B,P-180418,20,0471 ,   ,Curb Line
+B,P-180426,1,0000 ,   ,Curb Line
+B,P-180426,2,0060 ,N  ,NO STANDING ANYTIME (SINGLE ARROW) (REPLACES R7-20RA)                                                                                                                   
+B,P-180426,3,0060 ,S  ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-10AM WED W/SINGLE ARROW                                                                                                       
+B,P-180426,4,0158 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-10AM WED <--->                                                                                                                
+B,P-180426,5,0158 ,   ,METERS ARE NOT IN EFFECT ABOVE TIMES (RIDER)                                                                                                                            
+B,P-180426,6,0158 ,   ,2 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY <---->                                                                                                                          
+B,P-180426,7,0158 ,   ,NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (SUPERSEDES SP-186D, SP-193D & SP-211D) (DO NOT USE A/P J.S-K 10/23/09
+B,P-180426,8,0271 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-10AM WED <--->                                                                                                                
+B,P-180426,9,0271 ,   ,METERS ARE NOT IN EFFECT ABOVE TIMES (RIDER)                                                                                                                            
+B,P-180426,10,0271 ,   ,2 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY <---->                                                                                                                          
+B,P-180426,11,0271 ,   ,NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (SUPERSEDES SP-186D, SP-193D & SP-211D) (DO NOT USE A/P J.S-K 10/23/09
+B,P-180426,12,0388 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-10AM WED <--->                                                                                                                
+B,P-180426,13,0388 ,   ,METERS ARE NOT IN EFFECT ABOVE TIMES (RIDER)                                                                                                                            
+B,P-180426,14,0388 ,   ,2 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY <---->                                                                                                                          
+B,P-180426,15,0388 ,N  ,PAY AT MUNI-METER W/ SINGLE ARROW NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (DO NOT USE AS PER J.S-K 10/23/09)  
+B,P-180426,16,0409 ,   ,Property Line
+B,P-180426,17,0423 ,   ,Curb Line
+B,P-180897,1,0000 ,   ,Curb Line
+B,P-180897,2,0010 ,   ,Building Line
+B,P-180897,3,0040 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-9AM EXCEPT SUN <----> (SUPERSEDES SP-183C DATED 7/10/97)                                                                      
+B,P-180897,4,0040 ,   ,2 HOUR PARKING 9AM-7PM EXCEPT SUNDAY <----->                                                                                                                            
+B,P-180897,5,0040 ,N  ,PAY AT MUNI-METER W/ SINGLE ARROW NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (DO NOT USE AS PER J.S-K 10/23/09)  
+B,P-180897,6,0200 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-9AM EXCEPT SUN <----> (SUPERSEDES SP-183C DATED 7/10/97)                                                                      
+B,P-180897,7,0200 ,   ,2 HOUR PARKING 9AM-7PM EXCEPT SUNDAY <----->                                                                                                                            
+B,P-180897,8,0200 ,S  ,PAY AT MUNI-METER W/ SINGLE ARROW NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (DO NOT USE AS PER J.S-K 10/23/09)  
+B,P-180897,9,0236 ,   ,Building Line
+B,P-180897,10,0249 ,   ,Curb Line
+B,P-181696,1,0000 ,   ,Curb Line
+B,P-181696,2,0011 ,   ,Property Line
+B,P-181696,3,0051 ,   ,NO PARKING ANYTIME <----> (SUPERSEDES R7-40 DON'T USE --R7-40)                                                                                                          
+B,P-181696,4,0116 ,   ,NO PARKING ANYTIME <----> (SUPERSEDES R7-40 DON'T USE --R7-40)                                                                                                          
+B,P-181696,5,0230 ,   ,NO PARKING ANYTIME <----> (SUPERSEDES R7-40 DON'T USE --R7-40)                                                                                                          
+B,P-181696,6,0308 ,   ,Building Line
+B,P-181696,7,0323 ,   ,Curb Line
+B,P-190590,1,0000 ,   ,Curb Line
+B,P-190590,2,0014 ,   ,Building Line
+B,P-190590,3,0049 ,E  ,NO STANDING ANYTIME (SINGLE ARROW) (REPLACES R7-20RA)                                                                                                                   
+B,P-190590,4,0049 ,W  ,NO PARKING (SANITATION BROOM SYMBOL) 8-9:30AM MON & THURS W/SINGLE ARROW                                                                                                
+B,P-190590,5,0049 ,   ,METERS ARE NOT IN EFFECT ABOVE TIMES (RIDER)                                                                                                                            
+B,P-190590,6,0049 ,W  ,1 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY W/SINGLE ARROW                                                                                                                  
+B,P-190590,7,0175 ,E  ,NO PARKING (SANITATION BROOM SYMBOL) 8-9:30AM MON & THURS W/SINGLE ARROW                                                                                                
+B,P-190590,8,0175 ,   ,METERS ARE NOT IN EFFECT ABOVE TIMES (RIDER)                                                                                                                            
+B,P-190590,9,0175 ,E  ,1 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY W/SINGLE ARROW                                                                                                                  
+B,P-190590,10,0175 ,W  ,NO STANDING ANYTIME (SINGLE ARROW) (REPLACES R7-20RA)                                                                                                                   
+B,P-190590,11,0201 ,   ,NO STANDING ANYTIME <---> (REPLACES R7-20R)                                                                                                                             
+B,P-190590,12,0217 ,   ,Property Line
+B,P-190590,13,0234 ,   ,Curb Line
+B,P-193728,1,0000 ,   ,Curb Line
+B,P-193728,2,0020 ,   ,Building Line
+B,P-193728,3,0090 ,E  ,BUS STOP SIGN (BUS & HANDICAP SYMBOLS) NO STANDING W/ SINGLE ARROW                                                                                                      
+B,P-193728,4,0090 ,   ,M 18 LTD (12"X 6") 8 STREET 4 AVENUE (16"X 6") (ROUTE DESTINATION PANEL 032"X 06")(USE AS EXAMPLE FOR DIFFERENT LOCATION)                                               
+B,P-193728,5,0090 ,   ,14 STREET & UNION SQ (BOTTOM LOCATION PANEL)(USE AS EXAMPLE FOR DIFFERENT LOCATION)                                                                                     
+B,P-193728,6,0156 ,   ,NO PARKING ANYTIME <----> (SUPERSEDES R7-40 DON'T USE --R7-40)                                                                                                          
+B,P-193728,7,0221 ,   ,NO PARKING ANYTIME <----> (SUPERSEDES R7-40 DON'T USE --R7-40)                                                                                                          
+B,P-193728,8,0287 ,   ,NO PARKING ANYTIME <----> (SUPERSEDES R7-40 DON'T USE --R7-40)                                                                                                          
+B,P-193728,9,0487 ,   ,NO PARKING ANYTIME <----> (SUPERSEDES R7-40 DON'T USE --R7-40)                                                                                                          
+B,P-193728,10,0490 ,   ,Building Line
+B,P-193728,11,0504 ,   ,Curb Line
+B,P-197406,1,0000 ,   ,Curb Line
+B,P-197406,2,0013 ,   ,Building Line
+B,P-197406,3,0075 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 9:30-11AM TUES & FRI <-----> (SUPERSEDED BY SP-63C)                                                                                
+B,P-197406,4,0155 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 9:30-11AM TUES & FRI <-----> (SUPERSEDED BY SP-63C)                                                                                
+B,P-197406,5,0184 ,E  ,NO PARKING 8AM-6PM EXCEPT SUNDAY (SINGLE HEAD ARROW)                                                                                                                    
+B,P-197406,6,0223 ,W  ,NO PARKING 8AM-6PM EXCEPT SUNDAY (SINGLE HEAD ARROW)                                                                                                                    
+B,P-197406,7,0314 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 9:30-11AM TUES & FRI <-----> (SUPERSEDED BY SP-63C)                                                                                
+B,P-197406,8,0366 ,   ,Building Line
+B,P-197406,9,0384 ,   ,Curb Line
+B,P-200889,1,0000 ,   ,Curb Line
+B,P-200889,2,0008 ,   ,Property Line
+B,P-200889,3,0113 ,W  ,NO PARKING (SANITATION BROOM SYMBOL) 8-9AM WED & SAT W/SINGLE ARROW                                                                                                     
+B,P-200889,4,0113 ,W  ,2 HOUR PARKING 9AM-8PM EXCEPT SUNDAY W/SINGLE ARROW                                                                                                                     
+B,P-200889,5,0169 ,W  ,NO STANDING ANYTIME TAXI STAND W/SINGLE ARROW                                                                                                                           
+B,P-200889,6,0273 ,   ,NO STANDING EXCEPT FARMERS MARKET VEHICLES 8AM-4PM TUESDAY JUNE-NOV <----->                                                                                             
+B,P-200889,7,0273 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8-9AM WED & SAT <---->                                                                                                             
+B,P-200889,8,0273 ,   ,2 HOUR PARKING 9AM-8PM EXCEPT SUNDAY <----->                                                                                                                            
+B,P-200889,9,0336 ,W  ,NO STANDING EXCEPT FARMERS MARKET VEHICLES 8AM-4PM TUESDAY JUNE-NOV W/ SINGLE ARROW                                                                                     
+B,P-200889,10,0336 ,W  ,NO PARKING (SANITATION BROOM SYMBOL) 8-9AM WED & SAT W/SINGLE ARROW                                                                                                     
+B,P-200889,11,0336 ,W  ,2 HOUR PARKING 9AM-8PM EXCEPT SUNDAY W/SINGLE ARROW                                                                                                                     
+B,P-200889,12,0336 ,E  ,NO STANDING ANYTIME (SINGLE ARROW) (REPLACES R7-20RA)                                                                                                                   
+B,P-200889,13,0380 ,W  ,NO STANDING ANYTIME (SINGLE ARROW) (REPLACES R7-20RA)                                                                                                                   
+B,P-200889,14,0398 ,   ,NO STANDING EXCEPT FARMERS MARKET VEHICLES 8AM-4PM TUESDAY JUNE-NOV <----->                                                                                             
+B,P-200889,15,0398 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8-9AM WED & SAT <---->                                                                                                             
+B,P-200889,16,0398 ,   ,2 HOUR PARKING 9AM-8PM EXCEPT SUNDAY <----->                                                                                                                            
+B,P-200889,17,0529 ,W  ,NO STANDING EXCEPT FARMERS MARKET VEHICLES 8AM-4PM TUESDAY JUNE-NOV W/ SINGLE ARROW                                                                                     
+B,P-200889,18,0529 ,W  ,NO PARKING (SANITATION BROOM SYMBOL) 8-9AM WED & SAT W/SINGLE ARROW                                                                                                     
+B,P-200889,19,0529 ,W  ,2 HOUR PARKING 9AM-8PM EXCEPT SUNDAY W/SINGLE ARROW                                                                                                                     
+B,P-200889,20,0616 ,W  ,BUS STOP SIGN (BUS & HANDICAP SYMBOLS) NO STANDING W/ SINGLE ARROW                                                                                                      
+B,P-200889,21,0616 ,   ,M 18 LTD (12"X 6") 8 STREET 4 AVENUE (16"X 6") (ROUTE DESTINATION PANEL 032"X 06")(USE AS EXAMPLE FOR DIFFERENT LOCATION)                                               
+B,P-200889,22,0616 ,   ,14 STREET & UNION SQ (BOTTOM LOCATION PANEL)(USE AS EXAMPLE FOR DIFFERENT LOCATION)                                                                                     
+B,P-200889,23,0662 ,W  ,NO STANDING ANYTIME (SINGLE ARROW) (REPLACES R7-20RA)                                                                                                                   
+B,P-200889,24,0792 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8-9AM WED & SAT <---->                                                                                                             
+B,P-200889,25,0792 ,   ,2 HOUR PARKING 9AM-8PM EXCEPT SUNDAY <----->                                                                                                                            
+B,P-200889,26,0842 ,W  ,NO PARKING (SANITATION BROOM SYMBOL) 8-9AM WED & SAT W/SINGLE ARROW                                                                                                     
+B,P-200889,27,0842 ,W  ,2 HOUR PARKING 9AM-8PM EXCEPT SUNDAY W/SINGLE ARROW                                                                                                                     
+B,P-200889,28,0905 ,   ,NO STANDING ANYTIME <---> (REPLACES R7-20R)                                                                                                                             
+B,P-200889,29,0965 ,W  ,NO STANDING ANYTIME (SINGLE ARROW) (REPLACES R7-20RA)                                                                                                                   
+B,P-200889,30,1491 ,   ,Property Line
+B,P-200889,31,1501 ,   ,Curb Line
+B,P-202032,1,0000 ,   ,Curb Line
+B,P-202032,2,0011 ,   ,Building Line
+B,P-202032,3,0016 ,   ,NO PARKING (SANITATION BROOM SYMBOL)11:30AM-1PM FRI<--->SUPERSEDES SP-403C DATED 6-17-92)                                                                               
+B,P-202032,4,0016 ,   ,METERS ARE NOT IN EFFECT ABOVE TIMES (RIDER)                                                                                                                            
+B,P-202032,5,0016 ,N  ,2 HOUR PARKING 7:30AM-7PM EXCEPT SUNDAY W/ SINGLE ARROW                                                                                                                 
+B,P-202032,6,0133 ,   ,NO PARKING (SANITATION BROOM SYMBOL)11:30AM-1PM FRI<--->SUPERSEDES SP-403C DATED 6-17-92)                                                                               
+B,P-202032,7,0133 ,   ,METERS ARE NOT IN EFFECT ABOVE TIMES (RIDER)                                                                                                                            
+B,P-202032,8,0133 ,   ,2 HOUR PARKING 7:30AM-7PM EXCEPT SUNDAY <---->                                                                                                                          
+B,P-202032,9,0205 ,   ,Property Line
+B,P-202032,10,0215 ,   ,Curb Line
+B,P-202033,1,0000 ,   ,Curb Line
+B,P-202033,2,0013 ,   ,Building Line
+B,P-202033,3,0034 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 11:30AM TO 1PM THURS <---->                                                                                                        
+B,P-202033,4,0034 ,   ,METERS ARE NOT IN EFFECT ABOVE TIMES (RIDER)                                                                                                                            
+B,P-202033,5,0034 ,   ,2 HOUR PARKING 7:30AM-7PM EXCEPT SUNDAY <---->                                                                                                                          
+B,P-202033,6,0154 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 11:30AM TO 1PM THURS <---->                                                                                                        
+B,P-202033,7,0154 ,   ,METERS ARE NOT IN EFFECT ABOVE TIMES (RIDER)                                                                                                                            
+B,P-202033,8,0154 ,   ,2 HOUR PARKING 7:30AM-7PM EXCEPT SUNDAY <---->                                                                                                                          
+B,P-202033,9,0207 ,   ,Property Line
+B,P-202033,10,0215 ,   ,Curb Line
+B,P-203475,1,0000 ,   ,Curb Line
+B,P-203475,2,0013 ,   ,Building Line
+B,P-203475,3,0021 ,   ,NO STANDING 7-10AM 4-7PM EXCEPT SUNDAY                                                                                                                                  
+B,P-203475,4,0021 ,   ,2 HOUR PARKING 10AM-4PM EXCEPT SUNDAY                                                                                                                                   
+B,P-203475,5,0177 ,   ,NO STANDING 7-10AM 4-7PM EXCEPT SUNDAY                                                                                                                                  
+B,P-203475,6,0177 ,   ,2 HOUR PARKING 10AM-4PM EXCEPT SUNDAY                                                                                                                                   
+B,P-203475,7,0215 ,   ,Building Line
+B,P-203475,8,0232 ,   ,Curb Line
+B,P-203478,1,0000 ,   ,Curb Line
+B,P-203478,2,0013 ,   ,Building Line
+B,P-203478,3,0160 ,S  ,NO STANDING ANYTIME (SINGLE ARROW) (REPLACES R7-20RA)                                                                                                                   
+B,P-203478,4,0160 ,N  ,2 HOUR PARKING 9AM-7PM EXCEPT SUNDAY W/ SINGLE ARROW                                                                                                                    
+B,P-203478,5,0160 ,N  ,PAY AT MUNI-METER W/ SINGLE ARROW NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (DO NOT USE AS PER J.S-K 10/23/09)  
+B,P-203478,6,0208 ,N  ,NO STANDING ANYTIME (SINGLE ARROW) (REPLACES R7-20RA)                                                                                                                   
+B,P-203478,7,0208 ,S  ,2 HOUR PARKING 9AM-7PM EXCEPT SUNDAY W/ SINGLE ARROW                                                                                                                    
+B,P-203478,8,0208 ,S  ,PAY AT MUNI-METER W/ SINGLE ARROW NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (DO NOT USE AS PER J.S-K 10/23/09)  
+B,P-203478,9,0304 ,   ,NO STANDING ANYTIME <---> (REPLACES R7-20R)                                                                                                                             
+B,P-203478,10,0455 ,S  ,NO STANDING ANYTIME (SINGLE ARROW) (REPLACES R7-20RA)                                                                                                                   
+B,P-203478,11,0633 ,N  ,NO STANDING ANYTIME (SINGLE ARROW) (REPLACES R7-20RA)                                                                                                                   
+B,P-203478,12,0707 ,   ,NO STANDING ANYTIME <---> (REPLACES R7-20R)                                                                                                                             
+B,P-203478,13,0748 ,   ,Building Line
+B,P-203478,14,0763 ,   ,Curb Line
+B,P-203996,1,0000 ,   ,Curb Line
+B,P-203996,2,0024 ,   ,Property Line
+B,P-203996,3,0094 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN <----->                                                                                                        
+B,P-203996,4,0094 ,   ,2 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-203996,5,0186 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN <----->                                                                                                        
+B,P-203996,6,0186 ,   ,2 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-203996,7,0295 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN <----->                                                                                                        
+B,P-203996,8,0295 ,   ,2 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-203996,9,0449 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN <----->                                                                                                        
+B,P-203996,10,0449 ,   ,2 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-203996,11,0482 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN <----->                                                                                                        
+B,P-203996,12,0482 ,W  ,2 HOUR PARKING 8AM-7PM EXCEPT SUNDAY (ARROW)                                                                                                                            
+B,P-203996,13,0617 ,W  ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN W/ SINGLE ARROW                                                                                                
+B,P-203996,14,0618 ,   ,Property Line
+B,P-203996,15,0631 ,   ,Curb Line
+B,P-209435,1,0000 ,   ,Curb Line
+B,P-209435,2,0013 ,   ,Property Line
+B,P-209435,3,0080 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN <----->                                                                                                        
+B,P-209435,4,0080 ,   ,1 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-209435,5,0154 ,E  ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN W/ SINGLE ARROW                                                                                                
+B,P-209435,6,0154 ,E  ,1 HOUR PARKING 8AM-7PM EXCEPT SUNDAY (ARROW)                                                                                                                            
+B,P-209435,7,0296 ,   ,BUS STOP SIGN (BUS & HANDICAP SYMBOLS) NO STANDING <----->                                                                                                              
+B,P-209435,8,0296 ,   ,M 18 LTD (12"X 6") 8 STREET 4 AVENUE (16"X 6") (ROUTE DESTINATION PANEL 032"X 06")(USE AS EXAMPLE FOR DIFFERENT LOCATION)                                               
+B,P-209435,9,0296 ,   ,14 STREET & UNION SQ (BOTTOM LOCATION PANEL)(USE AS EXAMPLE FOR DIFFERENT LOCATION)                                                                                     
+B,P-209435,10,0306 ,   ,Property Line
+B,P-209435,11,0326 ,   ,Curb Line
+B,P-209652,1,0000 ,   ,Curb Line
+B,P-209652,2,0013 ,   ,Property Line
+B,P-209652,3,0052 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN <----->                                                                                                        
+B,P-209652,4,0052 ,   ,1 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-209652,5,0119 ,W  ,NO PARKING ANYTIME (SINGLE ARROW)(SUPERSEDES R7-40 DON'TUSE R7-40)                                                                                                      
+B,P-209652,6,0119 ,E  ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN W/ SINGLE ARROW                                                                                                
+B,P-209652,7,0119 ,E  ,1 HOUR PARKING 8AM-7PM EXCEPT SUNDAY (ARROW)                                                                                                                            
+B,P-209652,8,0228 ,   ,Property Line
+B,P-209652,9,0231 ,E  ,NO PARKING ANYTIME (SINGLE ARROW)(SUPERSEDES R7-40 DON'TUSE R7-40)                                                                                                      
+B,P-209652,10,0241 ,   ,Curb Line
+B,P-209653,1,0000 ,   ,Curb Line
+B,P-209653,2,0014 ,E  ,NO PARKING (SANITATION BROOM SYMBOL) 8-8:30AM EXCEPT SUN W/ SIGNLE ARROW (SUPERSEDES SP-182CA)                                                                          
+B,P-209653,3,0014 ,E  ,1 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY W/SINGLE ARROW                                                                                                                  
+B,P-209653,4,0016 ,   ,Property Line
+B,P-209653,5,0120 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8-8:30AM EXCEPT SUN <----> (SUPERSEDES SP-182C)                                                                                    
+B,P-209653,6,0120 ,   ,1 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY <--->                                                                                                                           
+B,P-209653,7,0214 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8-8:30AM EXCEPT SUN <----> (SUPERSEDES SP-182C)                                                                                    
+B,P-209653,8,0214 ,   ,1 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY <--->                                                                                                                           
+B,P-209653,9,0248 ,   ,Property Line
+B,P-209653,10,0258 ,   ,Curb Line
+B,P-210436,1,0000 ,   ,Curb Line
+B,P-210436,2,0021 ,   ,Building Line
+B,P-210436,3,0132 ,   ,NO STANDING<---->HANDICAP BUS STOP(SYMBOL) W/4 ROUTES +(15X12,4 ROUTE RIDER-IF NECESSARY);REVISED 2/14/94 & SUPERSEDES SP-298B.                                         
+B,P-210436,4,0175 ,N  ,BUS STOP SIGN (BUS & HANDICAP SYMBOLS) NO STANDING W/ SINGLE ARROW                                                                                                      
+B,P-210436,5,0175 ,   ,M 18 LTD (12"X 6") 8 STREET 4 AVENUE (16"X 6") (ROUTE DESTINATION PANEL 032"X 06")(USE AS EXAMPLE FOR DIFFERENT LOCATION)                                               
+B,P-210436,6,0175 ,   ,14 STREET & UNION SQ (BOTTOM LOCATION PANEL)(USE AS EXAMPLE FOR DIFFERENT LOCATION)                                                                                     
+B,P-210436,7,0253 ,N  ,NO STANDING EXCEPT TRUCKS LOADING & UNLOADING 7AM-7PM MON THRU FRI (ARROW) (SAME AS SP-23BA)                                                                            
+B,P-210436,8,0307 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN <----->                                                                                                        
+B,P-210436,9,0307 ,   ,1 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-210436,10,0401 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN <----->                                                                                                        
+B,P-210436,11,0401 ,   ,1 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-210436,12,0515 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN <----->                                                                                                        
+B,P-210436,13,0515 ,   ,1 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-210436,14,0610 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN <----->                                                                                                        
+B,P-210436,15,0610 ,   ,1 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-210436,16,0658 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN <----->                                                                                                        
+B,P-210436,17,0658 ,   ,1 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-210436,18,0747 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN <----->                                                                                                        
+B,P-210436,19,0747 ,   ,1 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-210436,20,0758 ,   ,Building Line
+B,P-210436,21,0772 ,   ,Curb Line
+B,P-210699,1,0000 ,   ,Curb Line
+B,P-210699,2,0020 ,   ,Building Line
+B,P-210699,3,0058 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8-8:30AM EXCEPT SUN <----> (SUPERSEDES SP-182C)                                                                                    
+B,P-210699,4,0058 ,   ,1 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY <--->                                                                                                                           
+B,P-210699,5,0128 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8-8:30AM EXCEPT SUN <----> (SUPERSEDES SP-182C)                                                                                    
+B,P-210699,6,0128 ,   ,1 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY <--->                                                                                                                           
+B,P-210699,7,0221 ,   ,Building Line
+B,P-210699,8,0222 ,W  ,NO PARKING (SANITATION BROOM SYMBOL) 8-8:30AM EXCEPT SUN W/ SIGNLE ARROW (SUPERSEDES SP-182CA)                                                                          
+B,P-210699,9,0222 ,W  ,1 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY W/SINGLE ARROW                                                                                                                  
+B,P-210699,10,0234 ,   ,Curb Line
+B,P-211579,1,0000 ,   ,Curb Line
+B,P-211579,2,0011 ,   ,Property Line
+B,P-211579,3,0117 ,   ,BUS STOP SIGN (BUS & HANDICAP SYMBOLS) NO STANDING <----->                                                                                                              
+B,P-211579,4,0167 ,W  ,BUS STOP SIGN (BUS & HANDICAP SYMBOLS) NO STANDING W/ SINGLE ARROW                                                                                                      
+B,P-211579,5,0167 ,   ,M 18 LTD (12"X 6") 8 STREET 4 AVENUE (16"X 6") (ROUTE DESTINATION PANEL 032"X 06")(USE AS EXAMPLE FOR DIFFERENT LOCATION)                                               
+B,P-211579,6,0167 ,   ,14 STREET & UNION SQ (BOTTOM LOCATION PANEL)(USE AS EXAMPLE FOR DIFFERENT LOCATION)                                                                                     
+B,P-211579,7,0190 ,   ,NO PARKING ANYTIME <----> (SUPERSEDES R7-40 DON'T USE --R7-40)                                                                                                          
+B,P-211579,8,0236 ,W  ,NO PARKING ANYTIME (SINGLE ARROW)(SUPERSEDES R7-40 DON'TUSE R7-40)                                                                                                      
+B,P-211579,9,0236 ,E  ,NO PARKING (SANITATION BROOM SYMBOL) 8-8:30AM EXCEPT SUN W/ SIGNLE ARROW (SUPERSEDES SP-182CA)                                                                          
+B,P-211579,10,0236 ,E  ,2 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY W/SINGLE ARROW                                                                                                                  
+B,P-211579,11,0481 ,W  ,NO PARKING (SANITATION BROOM SYMBOL) 8-8:30AM EXCEPT SUN W/ SIGNLE ARROW (SUPERSEDES SP-182CA)                                                                          
+B,P-211579,12,0481 ,W  ,2 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY W/SINGLE ARROW                                                                                                                  
+B,P-211579,13,0481 ,E  ,NO STANDING EXCEPT FARMERS MARKET VEHICLES 8AM-3PM TUESDAY JULY-NOV W/ SINGLE ARROW                                                                                     
+B,P-211579,14,0481 ,   ,OTHER TIMES (RIDER FOR PARKING RESTRICTED SIGNS - RED/WHITE)                                                                                                            
+B,P-211579,15,0481 ,E  ,NO STANDING ANYTIME (SINGLE ARROW) (REPLACES R7-20RA)                                                                                                                   
+B,P-211579,16,0498 ,   ,Curb Line
+B,P-212384,1,0000 ,   ,Curb Line
+B,P-212384,2,0015 ,   ,Building Line
+B,P-212384,3,0085 ,E  ,BUS STOP SIGN (BUS & HANDICAP SYMBOLS) NO STANDING W/ SINGLE ARROW                                                                                                      
+B,P-212384,4,0085 ,   ,M 18 LTD (12"X 6") 8 STREET 4 AVENUE (16"X 6") (ROUTE DESTINATION PANEL 032"X 06")(USE AS EXAMPLE FOR DIFFERENT LOCATION)                                               
+B,P-212384,5,0085 ,   ,14 STREET & UNION SQ (BOTTOM LOCATION PANEL)(USE AS EXAMPLE FOR DIFFERENT LOCATION)                                                                                     
+B,P-212384,6,0110 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 9-10:30AM TUES & FRI <----->                                                                                                       
+B,P-212384,7,0110 ,   ,1 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-212384,8,0204 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 9-10:30AM TUES & FRI <----->                                                                                                       
+B,P-212384,9,0204 ,   ,1 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-212384,10,0207 ,   ,Building Line
+B,P-212384,11,0225 ,   ,Curb Line
+B,P-213223,1,0000 ,   ,Curb Line
+B,P-213223,2,0012 ,   ,Building Line
+B,P-213223,3,0062 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-9AM EXCEPT SUN <----> (SUPERSEDES SP-183C DATED 7/10/97)                                                                      
+B,P-213223,4,0062 ,   ,2 HOUR PARKING 9AM-7PM EXCEPT SUNDAY <----->                                                                                                                            
+B,P-213223,5,0062 ,N  ,PAY AT MUNI-METER W/ SINGLE ARROW NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (DO NOT USE AS PER J.S-K 10/23/09)  
+B,P-213223,6,0098 ,N  ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-9AM EXCEPT SUNW/SINGLE ARROW (SUPERSEDES SP-183CA DATED 7/10/97)                                                              
+B,P-213223,7,0098 ,N  ,2 HOUR PARKING 9AM-7PM EXCEPT SUNDAY W/ SINGLE ARROW                                                                                                                    
+B,P-213223,8,0098 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-10AM MON <---> (DON'T LITTER) SUPERSEDED 2-2-95                                                                               
+B,P-213223,9,0215 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-10AM MON <---> (DON'T LITTER) SUPERSEDED 2-2-95                                                                               
+B,P-213223,10,0402 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-10AM MON <---> (DON'T LITTER) SUPERSEDED 2-2-95                                                                               
+B,P-213223,11,0558 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-10AM MON <---> (DON'T LITTER) SUPERSEDED 2-2-95                                                                               
+B,P-213223,12,0640 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-10AM MON <---> (DON'T LITTER) SUPERSEDED 2-2-95                                                                               
+B,P-213223,13,0775 ,   ,Curb Line
+B,P-213302,1,0000 ,   ,Curb Line
+B,P-213302,2,0014 ,   ,Building Line
+B,P-213302,3,0110 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8-8:30AM EXCEPT SUN <----> (SUPERSEDES SP-182C)                                                                                    
+B,P-213302,4,0110 ,   ,2 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY <---->                                                                                                                          
+B,P-213302,5,0110 ,   ,PAY AT MUNI-METER <-----> NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (DO NOT USE AS PER COMM J.S-K 10/23/2009)   
+B,P-213302,6,0225 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8-8:30AM EXCEPT SUN <----> (SUPERSEDES SP-182C)                                                                                    
+B,P-213302,7,0225 ,   ,2 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY <---->                                                                                                                          
+B,P-213302,8,0221 ,   ,PAY AT MUNI-METER <-----> NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (DO NOT USE AS PER COMM J.S-K 10/23/2009)   
+B,P-213302,9,0323 ,   ,Building Line
+B,P-213302,10,0336 ,   ,Curb Line
+B,P-213705,1,0000 ,   ,Curb Line
+B,P-213705,2,0015 ,   ,Building Line
+B,P-213705,3,0581 ,N  ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN W/ SINGLE ARROW                                                                                                
+B,P-213705,4,0581 ,N  ,2 HOUR PARKING 8AM-7PM EXCEPT SUNDAY (ARROW)                                                                                                                            
+B,P-213705,5,0625 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN <----->                                                                                                        
+B,P-213705,6,0625 ,   ,2 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-213705,7,0645 ,   ,Building Line
+B,P-213705,8,0664 ,   ,Curb Line
+B,P-213706,1,0000 ,   ,Curb Line
+B,P-213706,2,0015 ,   ,Property Line
+B,P-213706,3,0530 ,N  ,NO PARKING (SANITATION BROOM SYMBOL) 8-8:30AM EXCEPT SUN W/ SIGNLE ARROW (SUPERSEDES SP-182CA)                                                                          
+B,P-213706,4,0530 ,N  ,2 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY W/SINGLE ARROW                                                                                                                  
+B,P-213706,5,0600 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8-8:30AM EXCEPT SUN <----> (SUPERSEDES SP-182C)                                                                                    
+B,P-213706,6,0600 ,   ,2 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY <---->                                                                                                                          
+B,P-213706,7,0624 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8-8:30AM EXCEPT SUN <----> (SUPERSEDES SP-182C)                                                                                    
+B,P-213706,8,0624 ,   ,2 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY <---->                                                                                                                          
+B,P-213706,9,0644 ,   ,Property Line
+B,P-213706,10,0662 ,   ,Curb Line
+B,P-213845,1,0000 ,   ,Curb Line
+B,P-213845,2,0000 ,   ,NO STANDING ANYTIME <---> (REPLACES R7-20R)                                                                                                                             
+B,P-213845,3,0057 ,S  ,NO STANDING ANYTIME (SINGLE ARROW) (REPLACES R7-20RA)                                                                                                                   
+B,P-213845,4,0157 ,   ,NO STANDING<---->HANDICAP BUS STOP(SYMBOL) W/4 ROUTES +(15X12,4 ROUTE RIDER-IF NECESSARY);REVISED 2/14/94 & SUPERSEDES SP-298B.                                         
+B,P-213845,5,0304 ,S  ,BUS STOP SIGN (BUS & HANDICAP SYMBOLS) NO STANDING W/ SINGLE ARROW                                                                                                      
+B,P-213845,6,0304 ,   ,M 18 LTD (12"X 6") 8 STREET 4 AVENUE (16"X 6") (ROUTE DESTINATION PANEL 032"X 06")(USE AS EXAMPLE FOR DIFFERENT LOCATION)                                               
+B,P-213845,7,0304 ,   ,14 STREET & UNION SQ (BOTTOM LOCATION PANEL)(USE AS EXAMPLE FOR DIFFERENT LOCATION)                                                                                     
+B,P-213845,8,0363 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN <----->                                                                                                        
+B,P-213845,9,0363 ,   ,2 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-213845,10,0363 ,N  ,PAY AT MUNI-METER W/ SINGLE ARROW NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (DO NOT USE AS PER J.S-K 10/23/09)  
+B,P-213845,11,0464 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN <----->                                                                                                        
+B,P-213845,12,0464 ,   ,2 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-213845,13,0464 ,   ,NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (SUPERSEDES SP-186D, SP-193D & SP-211D) (DO NOT USE A/P J.S-K 10/23/09
+B,P-213845,14,0555 ,S  ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN W/ SINGLE ARROW                                                                                                
+B,P-213845,15,0555 ,S  ,2 HOUR PARKING 8AM-7PM EXCEPT SUNDAY (ARROW)                                                                                                                            
+B,P-213845,16,0555 ,S  ,PAY AT MUNI-METER W/ SINGLE ARROW NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (DO NOT USE AS PER J.S-K 10/23/09)  
+B,P-213845,17,0660 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 9:30-11AM TUES & FRI <-----> (SUPERSEDED BY SP-63C)                                                                                
+B,P-213845,18,0794 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 9:30-11AM TUES & FRI <-----> (SUPERSEDED BY SP-63C)                                                                                
+B,P-213845,19,0920 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 9:30-11AM TUES & FRI <-----> (SUPERSEDED BY SP-63C)                                                                                
+B,P-213845,20,0997 ,S  ,NO PARKING (SANITATION BROOM SYMBOL) 9:30-11AM TUES & FRI W/SINGLE ARROW (SUPERSEDED BY SP-63CA)                                                                        
+B,P-213845,21,1048 ,   ,NO STANDING<---->HANDICAP BUS STOP(SYMBOL) W/4 ROUTES +(15X12,4 ROUTE RIDER-IF NECESSARY);REVISED 2/14/94 & SUPERSEDES SP-298B.                                         
+B,P-213845,22,1115 ,S  ,BUS STOP SIGN (BUS & HANDICAP SYMBOLS) NO STANDING W/ SINGLE ARROW                                                                                                      
+B,P-213845,23,1115 ,   ,M 18 LTD (12"X 6") 8 STREET 4 AVENUE (16"X 6") (ROUTE DESTINATION PANEL 032"X 06")(USE AS EXAMPLE FOR DIFFERENT LOCATION)                                               
+B,P-213845,24,1115 ,   ,14 STREET & UNION SQ (BOTTOM LOCATION PANEL)(USE AS EXAMPLE FOR DIFFERENT LOCATION)                                                                                     
+B,P-213845,25,1258 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 9:30-11AM TUES & FRI <-----> (SUPERSEDED BY SP-63C)                                                                                
+B,P-213845,26,1400 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 9:30-11AM TUES & FRI <-----> (SUPERSEDED BY SP-63C)                                                                                
+B,P-213845,27,1543 ,S  ,NO PARKING (SANITATION BROOM SYMBOL) 9:30-11AM TUES & FRI W/SINGLE ARROW (SUPERSEDED BY SP-63CA)                                                                        
+B,P-213845,28,1586 ,S  ,NO STANDING ANYTIME (SINGLE ARROW) (REPLACES R7-20RA)                                                                                                                   
+B,P-213845,29,1679 ,S  ,BUS STOP SIGN (BUS & HANDICAP SYMBOLS) NO STANDING W/ SINGLE ARROW                                                                                                      
+B,P-213845,30,1679 ,   ,M 18 LTD (12"X 6") 8 STREET 4 AVENUE (16"X 6") (ROUTE DESTINATION PANEL 032"X 06")(USE AS EXAMPLE FOR DIFFERENT LOCATION)                                               
+B,P-213845,31,1679 ,   ,14 STREET & UNION SQ (BOTTOM LOCATION PANEL)(USE AS EXAMPLE FOR DIFFERENT LOCATION)                                                                                     
+B,P-213845,32,1780 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 9:30-11AM TUES & FRI <-----> (SUPERSEDED BY SP-63C)                                                                                
+B,P-213845,33,1851 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 9:30-11AM TUES & FRI <-----> (SUPERSEDED BY SP-63C)                                                                                
+B,P-213845,34,2034 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 9:30-11AM TUES & FRI <-----> (SUPERSEDED BY SP-63C)                                                                                
+B,P-213845,35,2126 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 9:30-11AM TUES & FRI <-----> (SUPERSEDED BY SP-63C)                                                                                
+B,P-213845,36,2308 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 9:30-11AM TUES & FRI <-----> (SUPERSEDED BY SP-63C)                                                                                
+B,P-213845,37,2391 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 9:30-11AM TUES & FRI <-----> (SUPERSEDED BY SP-63C)                                                                                
+B,P-213845,38,2471 ,N  ,NO STANDING EXCEPT TRUCKS LOADING & UNLOADING 8AM-3PM MON THRU FRI W/ SINGLE ARROW                                                                                      
+B,P-213845,39,2522 ,   ,NO STANDING EXCEPT TRUCKS LOADING & UNLOADING 8AM-3PM MON THRU FRI <----->                                                                                              
+B,P-213845,40,2590 ,S  ,NO STANDING EXCEPT TRUCKS LOADING & UNLOADING 8AM-3PM MON THRU FRI W/ SINGLE ARROW                                                                                      
+B,P-213845,41,2639 ,S  ,NO STANDING ANYTIME (SINGLE ARROW) (REPLACES R7-20RA)                                                                                                                   
+B,P-213845,42,2763 ,   ,BUS STOP SIGN (BUS & HANDICAP SYMBOLS) NO STANDING <----->                                                                                                              
+B,P-213845,43,2763 ,   ,M 18 LTD (12"X 6") 8 STREET 4 AVENUE (16"X 6") (ROUTE DESTINATION PANEL 032"X 06")(USE AS EXAMPLE FOR DIFFERENT LOCATION)                                               
+B,P-213845,44,2763 ,   ,14 STREET & UNION SQ (BOTTOM LOCATION PANEL)(USE AS EXAMPLE FOR DIFFERENT LOCATION)                                                                                     
+B,P-213845,45,2770 ,   ,Property Line
+B,P-213845,46,2789 ,   ,Curb Line
+B,P-214409,1,0000 ,   ,Curb Line
+B,P-214409,2,0012 ,E  ,NO PARKING (SANITATION BROOM SYMBOL) 8-8:30AM EXCEPT SUN W/ SIGNLE ARROW (SUPERSEDES SP-182CA)                                                                          
+B,P-214409,3,0012 ,E  ,6 HOUR PARKING 8:30AM-7PM MON THRU FRI W/ SINGLE ARROW                                                                                                                  
+B,P-214409,4,0014 ,   ,Property Line
+B,P-214409,5,0102 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8-8:30AM EXCEPT SUN <----> (SUPERSEDES SP-182C)                                                                                    
+B,P-214409,6,0102 ,   ,6 HOUR PARKING 8:30AM-7PM MON THRU FRI <----->                                                                                                                          
+B,P-214409,7,0209 ,W  ,NO PARKING (SANITATION BROOM SYMBOL) 8-8:30AM EXCEPT SUN W/ SIGNLE ARROW (SUPERSEDES SP-182CA)                                                                          
+B,P-214409,8,0209 ,W  ,6 HOUR PARKING 8:30AM-7PM MON THRU FRI W/ SINGLE ARROW                                                                                                                  
+B,P-214409,9,0211 ,   ,Building Line
+B,P-214409,10,0221 ,   ,Curb Line
+B,P-214414,1,0000 ,   ,Curb Line
+B,P-214414,2,0008 ,   ,Property Line
+B,P-214414,3,0080 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8-8:30AM EXCEPT SUN <----> (SUPERSEDES SP-182C)                                                                                    
+B,P-214414,4,0080 ,   ,1 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY <--->                                                                                                                           
+B,P-214414,5,0216 ,   ,Building Line
+B,P-214414,6,0217 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8-8:30AM EXCEPT SUN <----> (SUPERSEDES SP-182C)                                                                                    
+B,P-214414,7,0217 ,   ,1 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY <--->                                                                                                                           
+B,P-214414,8,0231 ,   ,Curb Line
+B,P-215949,1,0000 ,   ,Curb Line
+B,P-215949,2,0015 ,   ,Property Line
+B,P-215949,3,0080 ,W  ,BUS STOP SIGN (BUS & HANDICAP SYMBOLS) NO STANDING W/ SINGLE ARROW                                                                                                      
+B,P-215949,4,0080 ,   ,M 18 LTD (12"X 6") 8 STREET 4 AVENUE (16"X 6") (ROUTE DESTINATION PANEL 032"X 06")(USE AS EXAMPLE FOR DIFFERENT LOCATION)                                               
+B,P-215949,5,0080 ,   ,14 STREET & UNION SQ (BOTTOM LOCATION PANEL)(USE AS EXAMPLE FOR DIFFERENT LOCATION)                                                                                     
+B,P-215949,6,0085 ,   ,NO STANDING 7AM-10AM NOON-7PM MON THRU FRI NO STANDING EXCEPT TRUCKS LOADING & UNLOADING 10AM-NOON MON THRU FRI <----->                                                 
+B,P-215949,7,0085 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM SAT <---->                                                                                                                
+B,P-215949,8,0085 ,   ,1 HOUR PARKING 8AM-7PM SATURDAY <----->                                                                                                                                 
+B,P-215949,9,0085 ,E  ,PAY AT MUNI-METER W/ SINGLE ARROW NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (DO NOT USE AS PER J.S-K 10/23/09)  
+B,P-215949,10,0132 ,   ,NO STANDING 7AM-10AM NOON-7PM MON THRU FRI NO STANDING EXCEPT TRUCKS LOADING & UNLOADING 10AM-NOON MON THRU FRI <----->                                                 
+B,P-215949,11,0132 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM SAT <---->                                                                                                                
+B,P-215949,12,0132 ,   ,1 HOUR PARKING 8AM-7PM SATURDAY <----->                                                                                                                                 
+B,P-215949,13,0132 ,   ,NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (SUPERSEDES SP-186D, SP-193D & SP-211D) (DO NOT USE A/P J.S-K 10/23/09
+B,P-215949,14,0243 ,W  ,PAY AT MUNI-METER W/ SINGLE ARROW NYC PARKING CARD AVAILABLE (PARKING CARDS LOGO) FOR INFORMATION VISIT WWW.NYC.GOV/DOT OR CALL 311 (DO NOT USE AS PER J.S-K 10/23/09)  
+B,P-215949,15,0243 ,W  ,NO STANDING 7AM-10AM NOON-7PM MON THRU FRI NO STANDING EXCEPT TRUCKS LOADING & UNLOADING 10AM-NOON MON THRU FRI W/ SINGLE ARROW                                         
+B,P-215949,16,0242 ,W  ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM SAT W/SINGLE ARROW                                                                                                        
+B,P-215949,17,0242 ,W  ,1 HOUR PARKING 8AM-7PM SATURDAY W/ SINGLE ARROW                                                                                                                         
+B,P-215949,18,0284 ,   ,NO STANDING ANYTIME <---> (REPLACES R7-20R)                                                                                                                             
+B,P-215949,19,0339 ,   ,NO STANDING ANYTIME <---> (REPLACES R7-20R)                                                                                                                             
+B,P-215949,20,0354 ,   ,Property Line
+B,P-215949,21,0365 ,   ,Curb Line
+B,P-216782,1,0000 ,   ,Curb Line
+B,P-216782,2,0015 ,   ,Building Line
+B,P-216782,3,0037 ,E  ,NO PARKING ANYTIME (SINGLE ARROW)(SUPERSEDES R7-40 DON'TUSE R7-40)                                                                                                      
+B,P-216782,4,0097 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN <----->                                                                                                        
+B,P-216782,5,0097 ,   ,1 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-216782,6,0187 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN <----->                                                                                                        
+B,P-216782,7,0187 ,   ,1 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-216782,8,0196 ,   ,Building Line
+B,P-216782,9,0211 ,   ,Curb Line
+B,P-217133,1,0000 ,   ,Curb Line
+B,P-217133,2,0019 ,   ,Property Line
+B,P-217133,3,0107 ,W  ,BUS STOP SIGN (BUS & HANDICAP SYMBOLS) NO STANDING W/ SINGLE ARROW                                                                                                      
+B,P-217133,4,0107 ,   ,M 18 LTD (12"X 6") 8 STREET 4 AVENUE (16"X 6") (ROUTE DESTINATION PANEL 032"X 06")(USE AS EXAMPLE FOR DIFFERENT LOCATION)                                               
+B,P-217133,5,0107 ,   ,14 STREET & UNION SQ (BOTTOM LOCATION PANEL)(USE AS EXAMPLE FOR DIFFERENT LOCATION)                                                                                     
+B,P-217133,6,0116 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-9AM EXCEPT SUN <----> (SUPERSEDES SP-183C DATED 7/10/97)                                                                      
+B,P-217133,7,0116 ,   ,2 HOUR PARKING 9AM-7PM EXCEPT SUNDAY <----->                                                                                                                            
+B,P-217133,8,0239 ,W  ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-9AM EXCEPT SUNW/SINGLE ARROW (SUPERSEDES SP-183CA DATED 7/10/97)                                                              
+B,P-217133,9,0239 ,W  ,2 HOUR PARKING 9AM-7PM EXCEPT SUNDAY W/ SINGLE ARROW                                                                                                                    
+B,P-217133,10,0239 ,E  ,NO STANDING EXCEPT TRUCKS LOADING & UNLOADING 7AM-3PM MON THRU FRI W/ SINGLE ARROW                                                                                      
+B,P-217133,11,0323 ,W  ,NO STANDING EXCEPT TRUCKS LOADING & UNLOADING 7AM-3PM MON THRU FRI W/ SINGLE ARROW                                                                                      
+B,P-217133,12,0323 ,E  ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-9AM EXCEPT SUNW/SINGLE ARROW (SUPERSEDES SP-183CA DATED 7/10/97)                                                              
+B,P-217133,13,0432 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-9AM EXCEPT SUN <----> (SUPERSEDES SP-183C DATED 7/10/97)                                                                      
+B,P-217133,14,0431 ,   ,Property Line
+B,P-217133,15,0442 ,   ,Curb Line
+B,P-217813,1,0000 ,   ,Curb Line
+B,P-217813,2,0013 ,   ,Building Line
+B,P-217813,3,0063 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 9:30-11AM WED <--->                                                                                                                
+B,P-217813,4,0130 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 9:30-11AM WED <--->                                                                                                                
+B,P-217813,5,0393 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 9:30-11AM WED <--->                                                                                                                
+B,P-217813,6,0393 ,   ,OTHER TIMES (RIDER FOR PERMITTED PARKING SIGNS - GREEN/WHITE)                                                                                                           
+B,P-217813,7,0393 ,S  ,2 HOUR PARKING 9AM-7PM EXCEPT SUNDAY W/ SINGLE ARROW                                                                                                                    
+B,P-217813,8,0483 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 9:30-11AM WED <--->                                                                                                                
+B,P-217813,9,0483 ,   ,OTHER TIMES (RIDER FOR PERMITTED PARKING SIGNS - GREEN/WHITE)                                                                                                           
+B,P-217813,10,0483 ,   ,2 HOUR PARKING 9AM-7PM EXCEPT SUNDAY <----->                                                                                                                            
+B,P-217813,11,0580 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 9:30-11AM WED <--->                                                                                                                
+B,P-217813,12,0580 ,   ,OTHER TIMES (RIDER FOR PERMITTED PARKING SIGNS - GREEN/WHITE)                                                                                                           
+B,P-217813,13,0580 ,   ,2 HOUR PARKING 9AM-7PM EXCEPT SUNDAY <----->                                                                                                                            
+B,P-217813,14,0590 ,   ,Building Line
+B,P-217813,15,0602 ,   ,Curb Line
+B,P-217818,1,0000 ,   ,Curb Line
+B,P-217818,2,0014 ,   ,Building Line
+B,P-217818,3,0101 ,S  ,NO STANDING(SINGLE ARROW)HANDICAP BUS(SYMBOL)W/4 ROUTES +(15X12 4 ROUTE RIDER-IF NECESSARY) REVISED 3/25/92 & SUPERSEDES SP-298BA                                       
+B,P-217818,4,0101 ,   ,LOCAL 2 ROUTE BUS RIDER                                                                                                                                                 
+B,P-217818,5,0123 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM MON WED FRI <----->                                                                                                       
+B,P-217818,6,0123 ,   ,1 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-217818,7,0211 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM MON WED FRI <----->                                                                                                       
+B,P-217818,8,0211 ,   ,1 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-217818,9,0331 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM MON WED FRI <----->                                                                                                       
+B,P-217818,10,0331 ,   ,1 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-217818,11,0432 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM MON WED FRI <----->                                                                                                       
+B,P-217818,12,0432 ,   ,1 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-217818,13,0530 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM MON WED FRI <----->                                                                                                       
+B,P-217818,14,0530 ,   ,1 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-217818,15,0542 ,   ,Property Line
+B,P-217818,16,0556 ,   ,Curb Line
+B,P-217820,1,0000 ,   ,Curb Line
+B,P-217820,2,0011 ,   ,Property Line
+B,P-217820,3,0063 ,S  ,BUS STOP SIGN (BUS & HANDICAP SYMBOLS) NO STANDING W/ SINGLE ARROW                                                                                                      
+B,P-217820,4,0063 ,   ,M 18 LTD (12"X 6") 8 STREET 4 AVENUE (16"X 6") (ROUTE DESTINATION PANEL 032"X 06")(USE AS EXAMPLE FOR DIFFERENT LOCATION)                                               
+B,P-217820,5,0063 ,   ,M 18 LTD (12"X 6") 8 STREET 4 AVENUE (16"X 6") (ROUTE DESTINATION PANEL 032"X 06")(USE AS EXAMPLE FOR DIFFERENT LOCATION)                                               
+B,P-217820,6,0063 ,   ,14 STREET & UNION SQ (BOTTOM LOCATION PANEL)(USE AS EXAMPLE FOR DIFFERENT LOCATION)                                                                                     
+B,P-217820,7,0063 ,   ,LOCAL 2 ROUTE BUS RIDER                                                                                                                                                 
+B,P-217820,8,0444 ,N  ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM MON WED FRI W/ SINGLE ARROW                                                                                               
+B,P-217820,9,0444 ,N  ,1 HOUR PARKING 8AM-7PM EXCEPT SUNDAY (ARROW)                                                                                                                            
+B,P-217820,10,0571 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM MON WED FRI <----->                                                                                                       
+B,P-217820,11,0571 ,   ,1 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-217820,12,0666 ,S  ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM MON WED FRI W/ SINGLE ARROW                                                                                               
+B,P-217820,13,0666 ,S  ,1 HOUR PARKING 8AM-7PM EXCEPT SUNDAY (ARROW)                                                                                                                            
+B,P-217820,14,0666 ,   ,Property Line
+B,P-217820,15,0669 ,   ,Curb Line
+B,P-217821,1,0000 ,   ,Curb Line
+B,P-217821,2,0013 ,   ,Building Line
+B,P-217821,3,0046 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8-8:30AM EXCEPT SUN <----> (SUPERSEDES SP-182C)                                                                                    
+B,P-217821,4,0046 ,   ,1 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY <--->                                                                                                                           
+B,P-217821,5,0212 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8-8:30AM EXCEPT SUN <----> (SUPERSEDES SP-182C)                                                                                    
+B,P-217821,6,0212 ,   ,1 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY <--->                                                                                                                           
+B,P-217821,7,0214 ,   ,Building Line
+B,P-217821,8,0224 ,   ,Curb Line
+B,P-217822,1,0000 ,   ,Curb Line
+B,P-217822,2,0010 ,   ,Building Line
+B,P-217822,3,0039 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8-8:30AM EXCEPT SUN <----> (SUPERSEDES SP-182C)                                                                                    
+B,P-217822,4,0039 ,   ,1 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY <--->                                                                                                                           
+B,P-217822,5,0152 ,S  ,NO STANDING ANYTIME (SINGLE ARROW) (REPLACES R7-20RA)                                                                                                                   
+B,P-217822,6,0152 ,N  ,NO PARKING (SANITATION BROOM SYMBOL) 8-8:30AM EXCEPT SUN W/ SIGNLE ARROW (SUPERSEDES SP-182CA)                                                                          
+B,P-217822,7,0152 ,N  ,1 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY W/SINGLE ARROW                                                                                                                  
+B,P-217822,8,0197 ,   ,Property Line
+B,P-217822,9,0201 ,S  ,NO STANDING ANYTIME (SINGLE ARROW) (REPLACES R7-20RA)                                                                                                                   
+B,P-217822,10,0217 ,   ,Curb Line
+B,P-217823,1,0000 ,   ,Curb Line
+B,P-217823,2,0018 ,   ,Building Line
+B,P-217823,3,0081 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-9AM EXCEPT SUN <----> (SUPERSEDES SP-183C DATED 7/10/97)                                                                      
+B,P-217823,4,0081 ,   ,1 HOUR PARKING 9AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-217823,5,0154 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-9AM EXCEPT SUN <----> (SUPERSEDES SP-183C DATED 7/10/97)                                                                      
+B,P-217823,6,0154 ,   ,1 HOUR PARKING 9AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-217823,7,0325 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-9AM EXCEPT SUN <----> (SUPERSEDES SP-183C DATED 7/10/97)                                                                      
+B,P-217823,8,0325 ,   ,1 HOUR PARKING 9AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-217823,9,0414 ,N  ,NO PARKING ANYTIME (SINGLE ARROW)(SUPERSEDES R7-40 DON'TUSE R7-40)                                                                                                      
+B,P-217823,10,0414 ,S  ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-9AM EXCEPT SUNW/SINGLE ARROW (SUPERSEDES SP-183CA DATED 7/10/97)                                                              
+B,P-217823,11,0414 ,S  ,1 HOUR PARKING 9AM-7PM EXCEPT SUNDAY (ARROW)                                                                                                                            
+B,P-217823,12,0553 ,S  ,NO PARKING ANYTIME (SINGLE ARROW)(SUPERSEDES R7-40 DON'TUSE R7-40)                                                                                                      
+B,P-217823,13,0572 ,S  ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-9AM EXCEPT SUNW/SINGLE ARROW (SUPERSEDES SP-183CA DATED 7/10/97)                                                              
+B,P-217823,14,0572 ,S  ,1 HOUR PARKING 9AM-7PM EXCEPT SUNDAY (ARROW)                                                                                                                            
+B,P-217823,15,0621 ,S  ,NO PARKING ANYTIME (SINGLE ARROW)(SUPERSEDES R7-40 DON'TUSE R7-40)                                                                                                      
+B,P-217823,16,0671 ,   ,Building Line
+B,P-217823,17,0672 ,S  ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-9AM EXCEPT SUNW/SINGLE ARROW (SUPERSEDES SP-183CA DATED 7/10/97)                                                              
+B,P-217823,18,0672 ,S  ,1 HOUR PARKING 9AM-7PM EXCEPT SUNDAY (ARROW)                                                                                                                            
+B,P-217823,19,0685 ,   ,Curb Line
+B,P-217829,1,0000 ,   ,Curb Line
+B,P-217829,2,0014 ,   ,Property Line
+B,P-217829,3,0034 ,S  ,NO STANDING ANYTIME (SINGLE ARROW) (REPLACES R7-20RA)                                                                                                                   
+B,P-217829,4,0034 ,N  ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-9AM EXCEPT SUNW/SINGLE ARROW (SUPERSEDES SP-183CA DATED 7/10/97)                                                              
+B,P-217829,5,0034 ,N  ,1 HOUR PARKING 9AM-7PM EXCEPT SUNDAY (ARROW)                                                                                                                            
+B,P-217829,6,0176 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-9AM EXCEPT SUN <----> (SUPERSEDES SP-183C DATED 7/10/97)                                                                      
+B,P-217829,7,0176 ,   ,1 HOUR PARKING 9AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-217829,8,0312 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-9AM EXCEPT SUN <----> (SUPERSEDES SP-183C DATED 7/10/97)                                                                      
+B,P-217829,9,0312 ,   ,1 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-217829,10,0328 ,N  ,NO PARKING ANYTIME (SINGLE ARROW)(SUPERSEDES R7-40 DON'TUSE R7-40)                                                                                                      
+B,P-217829,11,0381 ,   ,Property Line
+B,P-217829,12,0398 ,   ,Curb Line
+B,P-217840,1,0000 ,   ,Curb Line
+B,P-217840,2,0030 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-10AM WED <--->                                                                                                                
+B,P-217840,3,0221 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-10AM WED <--->                                                                                                                
+B,P-217840,4,0377 ,S  ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-10AM WED W/SINGLE ARROW                                                                                                       
+B,P-217840,5,0425 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-9AM EXCEPT SUN <----> (SUPERSEDES SP-183C DATED 7/10/97)                                                                      
+B,P-217840,6,0425 ,   ,2 HOUR PARKING 9AM-7PM EXCEPT SUNDAY <----->                                                                                                                            
+B,P-217840,7,0573 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-9AM EXCEPT SUN <----> (SUPERSEDES SP-183C DATED 7/10/97)                                                                      
+B,P-217840,8,0573 ,   ,2 HOUR PARKING 9AM-7PM EXCEPT SUNDAY <----->                                                                                                                            
+B,P-217840,9,0725 ,S  ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-9AM EXCEPT SUNW/SINGLE ARROW (SUPERSEDES SP-183CA DATED 7/10/97)                                                              
+B,P-217840,10,0725 ,S  ,2 HOUR PARKING 9AM-7PM EXCEPT SUNDAY W/ SINGLE ARROW                                                                                                                    
+B,P-217840,11,0725 ,   ,Building Line
+B,P-217840,12,0737 ,   ,Curb Line
+B,P-217841,1,0000 ,   ,Curb Line
+B,P-217841,2,0016 ,   ,Property Line
+B,P-217841,3,0072 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-9AM EXCEPT SUN <----> (SUPERSEDES SP-183C DATED 7/10/97)                                                                      
+B,P-217841,4,0072 ,   ,1 HOUR PARKING 9AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-217841,5,0162 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-9AM EXCEPT SUN <----> (SUPERSEDES SP-183C DATED 7/10/97)                                                                      
+B,P-217841,6,0162 ,   ,1 HOUR PARKING 9AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-217841,7,0250 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-9AM EXCEPT SUN <----> (SUPERSEDES SP-183C DATED 7/10/97)                                                                      
+B,P-217841,8,0250 ,   ,1 HOUR PARKING 9AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-217841,9,0339 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-9AM EXCEPT SUN <----> (SUPERSEDES SP-183C DATED 7/10/97)                                                                      
+B,P-217841,10,0339 ,   ,1 HOUR PARKING 9AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-217841,11,0492 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-9AM EXCEPT SUN <----> (SUPERSEDES SP-183C DATED 7/10/97)                                                                      
+B,P-217841,12,0492 ,   ,1 HOUR PARKING 9AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-217841,13,0549 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-9AM EXCEPT SUN <----> (SUPERSEDES SP-183C DATED 7/10/97)                                                                      
+B,P-217841,14,0549 ,   ,1 HOUR PARKING 9AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-217841,15,0707 ,   ,Property Line
+B,P-217841,16,0709 ,S  ,NO PARKING (SANITATION BROOM SYMBOL) 8:30-9AM EXCEPT SUNW/SINGLE ARROW (SUPERSEDES SP-183CA DATED 7/10/97)                                                              
+B,P-217841,17,0709 ,S  ,1 HOUR PARKING 9AM-7PM EXCEPT SUNDAY (ARROW)                                                                                                                            
+B,P-217841,18,0719 ,   ,Curb Line
+B,P-217843,1,0000 ,   ,Curb Line
+B,P-217843,2,0000 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN <----->                                                                                                        
+B,P-217843,3,0000 ,   ,1 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-217843,4,0178 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN <----->                                                                                                        
+B,P-217843,5,0178 ,   ,1 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-217843,6,0291 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM EXCEPT SUN <----->                                                                                                        
+B,P-217843,7,0291 ,   ,1 HOUR PARKING 8AM-7PM EXCEPT SUNDAY                                                                                                                                    
+B,P-217843,8,0352 ,   ,Curb Line
+B,P-217846,1,0000 ,   ,Curb Line
+B,P-217846,2,0013 ,   ,Building Line
+B,P-217846,3,0031 ,   ,NIGHT REGULATION (MOON & STARS SYMBOLS) NO PARKING (SANITATION BROOM SYMBOL) 3AM-6AM TUES THURS SAT <-->                                                                
+B,P-217846,4,0137 ,   ,NIGHT REGULATION (MOON & STARS SYMBOLS) NO PARKING (SANITATION BROOM SYMBOL) 3AM-6AM TUES THURS SAT <-->                                                                
+B,P-217846,5,0162 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8-8:30AM TUES THURS SAT <---->                                                                                                     
+B,P-217846,6,0162 ,E  ,2 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY W/SINGLE ARROW                                                                                                                  
+B,P-217846,7,0221 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8-8:30AM TUES THURS SAT <---->                                                                                                     
+B,P-217846,8,0221 ,   ,2 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY <---->                                                                                                                          
+B,P-217846,9,0262 ,   ,Building Line
+B,P-217846,10,0282 ,   ,Curb Line
+B,P-217847,1,0000 ,   ,Curb Line
+B,P-217847,2,0020 ,   ,Building Line
+B,P-217847,3,0084 ,W  ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM MON WED FRI W/ SINGLE ARROW                                                                                               
+B,P-217847,4,0084 ,W  ,1 HOUR PARKING 8AM-7PM EXCEPT SUNDAY (ARROW)                                                                                                                            
+B,P-217847,5,0219 ,   ,Property Line
+B,P-217847,6,0223 ,   ,Curb Line
+B,P-217852,1,0000 ,   ,Curb Line
+B,P-217852,2,0007 ,   ,Property Line
+B,P-217852,3,0107 ,W  ,NO PARKING (SANITATION BROOM SYMBOL) 7:30-8AM MON WED FRI W/ SINGLE ARROW                                                                                               
+B,P-217852,4,0107 ,W  ,1 HOUR PARKING 8AM-7PM EXCEPT SUNDAY (ARROW)                                                                                                                            
+B,P-217852,5,0201 ,   ,Building Line
+B,P-217852,6,0221 ,   ,Curb Line
+B,P-217863,1,0000 ,   ,Curb Line
+B,P-217863,2,0011 ,   ,Property Line
+B,P-217863,3,0533 ,S  ,NO STANDING(SINGLE ARROW)HANDICAP BUS(SYMBOL)W/4 ROUTES +(15X12 4 ROUTE RIDER-IF NECESSARY) REVISED 3/25/92 & SUPERSEDES SP-298BA                                       
+B,P-217863,4,0593 ,N  ,BUS STOP SIGN (BUS & HANDICAP SYMBOLS) NO STANDING W/ SINGLE ARROW                                                                                                      
+B,P-217863,5,0593 ,   ,M 18 LTD (12"X 6") 8 STREET 4 AVENUE (16"X 6") (ROUTE DESTINATION PANEL 032"X 06")(USE AS EXAMPLE FOR DIFFERENT LOCATION)                                               
+B,P-217863,6,0593 ,   ,14 STREET & UNION SQ (BOTTOM LOCATION PANEL)(USE AS EXAMPLE FOR DIFFERENT LOCATION)                                                                                     
+B,P-217863,7,0734 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8-8:30AM MON WED FRI <----->                                                                                                       
+B,P-217863,8,0734 ,   ,1 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY <--->                                                                                                                           
+B,P-217863,9,0925 ,N  ,NO PARKING (SANITATION BROOM SYMBOL)8-8:30AM MON WED FRIW/SINGLE ARROW                                                                                                  
+B,P-217863,10,0925 ,N  ,1 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY W/SINGLE ARROW                                                                                                                  
+B,P-217863,11,0967 ,N  ,NO PARKING ANYTIME (SINGLE ARROW)(SUPERSEDES R7-40 DON'TUSE R7-40)                                                                                                      
+B,P-217863,12,0967 ,S  ,NO PARKING (SANITATION BROOM SYMBOL)8-8:30AM MON WED FRIW/SINGLE ARROW                                                                                                  
+B,P-217863,13,0967 ,S  ,1 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY W/SINGLE ARROW                                                                                                                  
+B,P-217863,14,1064 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8-8:30AM MON WED FRI <----->                                                                                                       
+B,P-217863,15,1064 ,   ,1 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY <--->                                                                                                                           
+B,P-217863,16,1172 ,   ,NO PARKING (SANITATION BROOM SYMBOL) 8-8:30AM MON WED FRI <----->                                                                                                       
+B,P-217863,17,1172 ,   ,1 HOUR PARKING 8:30AM-7PM EXCEPT SUNDAY <--->                                                                                                                           
+B,P-217863,18,1188 ,   ,Property Line
+B,P-217863,19,1199 ,   ,Curb Line
+B,P-217866,1,0000 ,   ,Curb Line
+B,P-217866,2,0015 ,   ,Property Line
