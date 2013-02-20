@@ -4,7 +4,7 @@ import sys
 
 PRINT = False
 
-# @profile
+@profile
 def solve(g,n):
     X = [sum(g[0])]
     Y = [sum(g[1])]
